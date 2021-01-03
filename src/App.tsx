@@ -9,7 +9,7 @@ export default function App() {
   const [books, setBooks] = useState<Book[]>(allBooks)
   return (
     <Main>
-      <h2>📚 browse books 📚</h2>
+      <h2>📚 browse good books 📚</h2>
       <Button onClick={shuffleBooks}>Shuffle</Button>
       <BooksContainer>
         {books.map((book) => (
@@ -30,7 +30,6 @@ const Main = styled.div`
   justify-content: center;
   flex-direction: column;
 
-  background-color: #eeeee4;
   color: #242422;
   font-size: 30px;
 `
