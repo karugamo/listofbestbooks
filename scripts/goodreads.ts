@@ -21,8 +21,23 @@ async function main() {
     return {image, url, title}
   })
 
+  for (const book of books) {
+    book.isbn10 = await getISBN(book.url)
+    console.log(book.isbn10)
+  }
+
   writeFileSync('books.json', JSON.stringify(books, null, '  '))
   console.log('Done')
 }
 
 main()
+
+async function getISBN(url: string): Promise<string> {
+  const {body} = await got('https://goodreads.com/' + url)
+  const document = new JSDOM(body).window.document
+  const isbn10 = document
+    .querySelectorAll('.infoBoxRowItem')[1]
+    .textContent.trim()
+    .slice(0, 10)
+  if (/[0-9]{10}/.test(isbn10)) return isbn10
+}
