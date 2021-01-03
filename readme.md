@@ -1,4 +1,4 @@
-# react-template
+# browse-books
 
 Run development server with
 ```
