@@ -15,7 +15,10 @@ async function main() {
     const image = bookElement
       .querySelector('[itemprop=image]')
       .getAttribute('src')
-    return {image}
+
+    const url = bookElement.querySelector('[itemprop=url]').getAttribute('href')
+    const title = bookElement.querySelector('[itemprop=name]').innerHTML
+    return {image, url, title}
   })
 
   writeFileSync('books.json', JSON.stringify(books, null, '  '))
