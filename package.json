@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/flexiproducts/browse-books#readme",
   "dependencies": {
+    "@tensorflow-models/mobilenet": "^2.0.4",
+    "@tensorflow/tfjs": "^2.8.2",
+    "@tensorflow/tfjs-converter": "^1.2.11",
+    "@tensorflow/tfjs-core": "^1.2.11",
     "@types/jsdom": "^16.2.5",
     "@types/lodash": "^4.14.165",
     "@types/node": "^14.14.7",

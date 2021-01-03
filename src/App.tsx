@@ -1,19 +1,25 @@
-import React, {useState} from 'react'
+import React, {useEffect, useState} from 'react'
 import {shuffle} from 'lodash'
 import styled from 'styled-components'
 import allBooks from '../books.json'
 import {Book} from '../types'
 import BookThumbnail from './BookThumbnail'
+const mobilenet = require('@tensorflow-models/mobilenet')
 
 export default function App() {
   const [books, setBooks] = useState<Book[]>(allBooks)
+
   return (
     <Main>
       <h2>📚 browse good books 📚</h2>
       <Button onClick={shuffleBooks}>Shuffle</Button>
       <BooksContainer>
         {books.map((book) => (
-          <BookThumbnail key={book.image} {...book} />
+          <BookThumbnail
+            key={book.image}
+            onClick={(img, name) => classify(img, name)}
+            {...book}
+          />
         ))}
       </BooksContainer>
     </Main>
@@ -22,6 +28,19 @@ export default function App() {
   function shuffleBooks() {
     setBooks((books) => shuffle(books))
   }
+}
+
+async function classify(img, bookName) {
+  console.log(`%c ${bookName}...`, 'background: #fff; color: #111')
+  // Load the model.
+  const model = await mobilenet.load()
+
+  // Classify the image.
+  const predictions = await model.classify(img as HTMLImageElement)
+
+  console.log(
+    predictions.map(({className}) => className.split(',')[0]).join('\n')
+  )
 }
 
 const Main = styled.div`
