@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/flexiproducts/browse-books#readme",
   "dependencies": {
+    "@karugamo/components": "^1.0.1",
     "@types/jsdom": "^16.2.5",
     "@types/lodash": "^4.14.165",
     "@types/node": "^14.14.7",

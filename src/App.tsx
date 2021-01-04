@@ -4,9 +4,11 @@ import styled from 'styled-components'
 import allBooks from '../books.json'
 import {Book} from '../types'
 import BookThumbnail from './BookThumbnail'
+import {About} from '@karugamo/components'
 
 export default function App() {
   const [books, setBooks] = useState<Book[]>(allBooks)
+
   return (
     <Main>
       <h2>📚 browse good books 📚</h2>
@@ -16,6 +18,7 @@ export default function App() {
           <BookThumbnail key={book.image} {...book} />
         ))}
       </BooksContainer>
+      <About />
     </Main>
   )
 
