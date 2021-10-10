@@ -1,7 +1,7 @@
 import {writeFileSync} from 'fs'
 import got from 'got'
 import {JSDOM} from 'jsdom'
-import {Book} from '../types'
+import {Book, BookDetails} from '../types'
 
 async function main() {
   console.log('Downloading best books..')
@@ -22,7 +22,9 @@ async function main() {
   })
 
   for (const book of books) {
-    book.isbn10 = await getISBN(book.url)
+    const {isbn10, genres} = await getBookDetails(book.url)
+    book.isbn10 = isbn10
+    book.genres = genres
     console.log(book.isbn10)
   }
 
@@ -32,12 +34,28 @@ async function main() {
 
 main()
 
-async function getISBN(url: string): Promise<string> {
+async function getBookDetails(url: string): Promise<BookDetails> {
   const {body} = await got('https://goodreads.com/' + url)
   const document = new JSDOM(body).window.document
-  const isbn10 = document
-    .querySelectorAll('.infoBoxRowItem')[1]
-    .textContent.trim()
-    .slice(0, 10)
-  if (/[0-9]{10}/.test(isbn10)) return isbn10
+
+  return {
+    isbn10: getISBN(),
+    genres: getGenres()
+  }
+
+  function getISBN(): string {
+    const isbn10 = document
+      .querySelectorAll('.infoBoxRowItem')[1]
+      .textContent.trim()
+      .slice(0, 10)
+    if (/[0-9]{10}/.test(isbn10)) return isbn10
+  }
+
+  function getGenres(): string[] {
+    const genreElements = Array.from(
+      document.querySelectorAll('.bigBoxContent .elementList .left a')
+    )
+
+    return genreElements.map((it) => it.textContent.trim())
+  }
 }
