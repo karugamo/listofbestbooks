@@ -1,18 +1,25 @@
-import React, {useState} from 'react'
+import React, {useEffect, useState} from 'react'
 import {shuffle} from 'lodash'
 import styled from 'styled-components'
 import allBooks from '../books.json'
 import {Book} from '../types'
 import BookThumbnail from './BookThumbnail'
 import {About} from '@karugamo/components'
+import FilterTags, {Filter} from './FilterTags'
 
 export default function App() {
   const [books, setBooks] = useState<Book[]>(allBooks)
+  const [activeFilters, setActiveFilters] = useState<Filter[]>([])
+
+  useFilterBooks()
 
   return (
     <Main>
       <h2>📚 browse good books 📚</h2>
-      <Button onClick={shuffleBooks}>Shuffle</Button>
+      <OptionsBar>
+        <FilterTags onToggle={onToggleFilter} activeFilters={activeFilters} />
+        <Button onClick={shuffleBooks}>Shuffle</Button>
+      </OptionsBar>
       <BooksContainer>
         {books.map((book) => (
           <BookThumbnail key={book.image} {...book} />
@@ -22,8 +29,29 @@ export default function App() {
     </Main>
   )
 
+  function useFilterBooks() {
+    useEffect(() => {
+      const filteredBooks = activeFilters.reduce(
+        (acc, filter) => acc.filter(filter.function),
+        allBooks
+      )
+
+      setBooks(filteredBooks)
+    }, [activeFilters])
+  }
+
   function shuffleBooks() {
     setBooks((books) => shuffle(books))
+  }
+
+  function onToggleFilter(filter: Filter) {
+    const isActive = activeFilters.map(({name}) => name).includes(filter.name)
+
+    setActiveFilters(
+      isActive
+        ? activeFilters.filter(({name}) => name !== filter.name)
+        : [...activeFilters, filter]
+    )
   }
 }
 
@@ -40,7 +68,6 @@ const Main = styled.div`
 const BooksContainer = styled.div`
   display: flex;
   flex-wrap: wrap;
-  align-items: flex-start;
   justify-content: center;
 `
 
@@ -65,5 +92,18 @@ const Button = styled.button`
   :active {
     transform: translate(0, 2px);
     box-shadow: 0px 0px white;
+  }
+`
+
+const OptionsBar = styled.section`
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  max-width: 1380px;
+  width: 100%;
+
+  @media (max-width: 1200px) {
+    justify-content: center;
+    margin-bottom: 10px;
   }
 `

@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import {Book} from '../types'
 
-export default function BookThumbnail({image, title, url, isbn10}: Book) {
+export default function BookThumbnail({image, title, color, isbn10}: Book) {
   const src = image
     .replace('._SY75_', '')
     .replace('._SX50_', '')
@@ -13,11 +13,27 @@ export default function BookThumbnail({image, title, url, isbn10}: Book) {
         title
       )}&i=stripbooks&tag=karugamo-20`
   return (
-    <a title={title} target="_blank" rel="noreferrer" href={href}>
+    <LinkContainer
+      title={title}
+      target="_blank"
+      rel="noreferrer"
+      href={href}
+      backgroundColor={color}
+    >
       <Cover src={src} alt={title} />
-    </a>
+    </LinkContainer>
   )
 }
+
+const LinkContainer = styled.a<{
+  backgroundColor: string
+}>`
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: ${({backgroundColor}) => backgroundColor};
+`
 
 const Cover = styled.img.attrs({width: 300, loading: 'lazy'})`
   width: 300px;

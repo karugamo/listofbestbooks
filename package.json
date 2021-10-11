@@ -24,6 +24,7 @@
     "@types/react": "^16.9.55",
     "@types/react-dom": "^16.9.9",
     "@types/styled-components": "^5.1.4",
+    "dominant-colors": "^1.0.5",
     "got": "^11.8.1",
     "jsdom": "^16.4.0",
     "lodash": "^4.17.20",

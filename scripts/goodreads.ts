@@ -2,6 +2,7 @@ import {writeFileSync} from 'fs'
 import got from 'got'
 import {JSDOM} from 'jsdom'
 import {Book, BookDetails} from '../types'
+import {showColors} from 'dominant-colors'
 
 async function main() {
   console.log('Downloading best books..')
@@ -11,15 +12,21 @@ async function main() {
   const document = new JSDOM(body).window.document
 
   const bookElements = document.querySelectorAll('[itemtype*=Book]')
-  const books: Book[] = Array.from(bookElements).map((bookElement) => {
-    const image = bookElement
-      .querySelector('[itemprop=image]')
-      .getAttribute('src')
+  const books: Book[] = await Promise.all(
+    Array.from(bookElements).map(async (bookElement) => {
+      const image = bookElement
+        .querySelector('[itemprop=image]')
+        .getAttribute('src')
 
-    const url = bookElement.querySelector('[itemprop=url]').getAttribute('href')
-    const title = bookElement.querySelector('[itemprop=name]').innerHTML
-    return {image, url, title}
-  })
+      const color: string = (await showColors(image, 1))[0]
+
+      const url = bookElement
+        .querySelector('[itemprop=url]')
+        .getAttribute('href')
+      const title = bookElement.querySelector('[itemprop=name]').innerHTML
+      return {image, url, title, color}
+    })
+  )
 
   for (const book of books) {
     const {isbn10, genres} = await getBookDetails(book.url)
