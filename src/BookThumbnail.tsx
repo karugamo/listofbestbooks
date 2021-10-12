@@ -33,6 +33,21 @@ const LinkContainer = styled.a<{
   flex-direction: column;
   justify-content: center;
   background-color: ${({backgroundColor}) => backgroundColor};
+  cursor: pointer;
+  position: relative;
+
+  @media (max-width: 444px) {
+    width: 100%;
+  }
+
+  @media (min-width: 520px) {
+    transition: transform 0.1s ease-in-out;
+
+    :hover {
+      transform: scale(1.1);
+      z-index: 10;
+    }
+  }
 `
 
 const Cover = styled.img.attrs({width: 300, loading: 'lazy'})`
