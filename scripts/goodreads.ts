@@ -6,13 +6,35 @@ import {showColors} from 'dominant-colors'
 
 async function main() {
   console.log('Downloading best books..')
+
+  let books = []
+
+  for (let page = 1; page <= 5; page++) {
+    books.push(...(await getBooksFromPage(page)))
+  }
+
+  for (const book of books) {
+    const {isbn10, genres} = await getBookDetails(book.url)
+    book.isbn10 = isbn10
+    book.genres = genres
+    console.log(book.isbn10)
+  }
+
+  writeFileSync('books.json', JSON.stringify(books, null, '  '))
+  console.log('Done')
+}
+
+main()
+
+async function getBooksFromPage(page: number): Promise<Book[]> {
+  console.log(`On page ${page}...`)
   const {body} = await got(
-    'https://www.goodreads.com/list/show/1.Best_Books_Ever'
+    `https://www.goodreads.com/list/show/1.Best_Books_Ever?page=${page}`
   )
   const document = new JSDOM(body).window.document
 
   const bookElements = document.querySelectorAll('[itemtype*=Book]')
-  const books: Book[] = await Promise.all(
+  return await Promise.all(
     Array.from(bookElements).map(async (bookElement) => {
       const image = bookElement
         .querySelector('[itemprop=image]')
@@ -27,19 +49,7 @@ async function main() {
       return {image, url, title, color}
     })
   )
-
-  for (const book of books) {
-    const {isbn10, genres} = await getBookDetails(book.url)
-    book.isbn10 = isbn10
-    book.genres = genres
-    console.log(book.isbn10)
-  }
-
-  writeFileSync('books.json', JSON.stringify(books, null, '  '))
-  console.log('Done')
 }
-
-main()
 
 async function getBookDetails(url: string): Promise<BookDetails> {
   const {body} = await got('https://goodreads.com/' + url)
