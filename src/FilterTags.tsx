@@ -20,6 +20,7 @@ const genres = [
   'Science Fiction Fantasy',
   'Historical',
   'Historical Fiction',
+  'Nonfiction',
   'Academic',
   'School',
   'Literature',
