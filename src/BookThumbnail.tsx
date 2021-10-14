@@ -48,10 +48,13 @@ const LinkContainer = styled.a<{
   align-self: stretch;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  background-color: ${({backgroundColor}) => backgroundColor};
+  justify-content: flex-end;
+  background-color: transparent;
   cursor: pointer;
   position: relative;
+  margin-top: 32px;
+  margin-left: 8px;
+  margin-right: 8px;
 
   @media (max-width: 444px) {
     width: 100%;
@@ -113,4 +116,5 @@ const GenreTag = styled.div`
 
 const Cover = styled.img.attrs({width: 300, loading: 'lazy'})`
   width: 300px;
+  border-radius: 2px 8px 8px 2px;
 `

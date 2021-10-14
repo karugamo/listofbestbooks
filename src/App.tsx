@@ -61,7 +61,7 @@ const Main = styled.div`
   justify-content: center;
   flex-direction: column;
 
-  color: #242422;
+  color: #f6f4f4;
   font-size: 30px;
 `
 
@@ -74,20 +74,15 @@ const BooksContainer = styled.div`
 const Button = styled.button`
   font-size: 20px;
   padding: 12px 40px;
-  border: 2px solid #242422;
+  border: 2px solid #f6f4f4;
   background-color: transparent;
-  color: #242422;
+  color: #f6f4f4;
   margin-bottom: 20px;
   cursor: pointer;
   border-radius: 7px;
   box-shadow: 0px 2px white;
 
   transition: background-color 0.2s, color 0.2s;
-
-  :hover {
-    background-color: #242422;
-    color: white;
-  }
 
   :active {
     transform: translate(0, 2px);
