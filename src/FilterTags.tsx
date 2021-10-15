@@ -1,7 +1,8 @@
 import React from 'react'
-import styled from 'styled-components'
+import styled, {css} from 'styled-components'
 import {Book} from '../types'
 import Tag from './Tag'
+import books from '../books.json'
 
 type Genre = string
 
@@ -102,13 +103,37 @@ function FilterTag({filter, activeFilters, onToggle}: FilterTagProps) {
     .map((filter) => filter.name)
     .includes(filter.name)
 
+  const numberOfBooks = [...activeFilters, filter]
+    .map((it) => it.function)
+    .reduce(
+      (filteredBooks, filterFunction) => filteredBooks.filter(filterFunction),
+      books
+    ).length
+
   return (
-    <StyledTag inverted={isActive} onClick={() => onToggle(filter)}>
-      {filter.name}
+    <StyledTag
+      disabled={numberOfBooks === 0}
+      inverted={isActive}
+      onClick={() => onToggle(filter)}
+    >
+      {filter.name} <NumberOfBooks>({numberOfBooks})</NumberOfBooks>
     </StyledTag>
   )
 }
 
-const StyledTag = styled(Tag)`
+const NumberOfBooks = styled.span`
+  display: inline-block;
+  width: 48px;
+  color: #aaa;
+  font-weight: 300;
+`
+
+const StyledTag = styled(Tag)<{disabled: boolean}>`
   margin-bottom: 7px;
+  ${({disabled}) =>
+    disabled
+      ? css`
+          opacity: 0.3;
+        `
+      : ''}
 `
