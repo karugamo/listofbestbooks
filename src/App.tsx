@@ -15,7 +15,7 @@ export default function App() {
 
   return (
     <Main>
-      <h2>📚 browse good books 📚</h2>
+      <Headline>📚 browse good books 📚</Headline>
       <OptionsBar>
         <FilterTags onToggle={onToggleFilter} activeFilters={activeFilters} />
         <Button onClick={shuffleBooks}>Shuffle</Button>
@@ -101,4 +101,8 @@ const OptionsBar = styled.section`
     justify-content: center;
     margin-bottom: 10px;
   }
+`
+
+const Headline = styled.h2`
+  text-align: center;
 `

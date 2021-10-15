@@ -48,6 +48,7 @@ const LinkContainer = styled.a<{
   align-self: stretch;
   display: flex;
   flex-direction: column;
+  align-items: center;
   justify-content: flex-end;
   background-color: transparent;
   cursor: pointer;
