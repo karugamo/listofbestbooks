@@ -5,7 +5,7 @@
     "title": "The Diary of a Young Girl",
     "color": "hsla(36, 7%, 86%, 1)",
     "rating": 4.16,
-    "numRatings": 3068497,
+    "numRatings": 3068823,
     "published": 1947
   },
   {
@@ -14,7 +14,7 @@
     "title": "The Immortal Life of Henrietta Lacks",
     "color": "hsla(24, 100%, 60%, 1)",
     "rating": 4.07,
-    "numRatings": 644507,
+    "numRatings": 644560,
     "published": 2009
   },
   {
@@ -23,7 +23,7 @@
     "title": "Educated",
     "color": "hsla(47, 51%, 93%, 1)",
     "rating": 4.46,
-    "numRatings": 1038065,
+    "numRatings": 1038258,
     "published": 2018
   },
   {
@@ -32,7 +32,7 @@
     "title": "The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",
     "color": "hsla(120, 100%, 0%, 1)",
     "rating": 3.98,
-    "numRatings": 585972,
+    "numRatings": 586048,
     "published": 2003
   },
   {
@@ -41,7 +41,7 @@
     "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
     "color": "hsla(163, 3%, 46%, 1)",
     "rating": 4.05,
-    "numRatings": 369241,
+    "numRatings": 369273,
     "published": 2012
   },
   {
@@ -50,7 +50,7 @@
     "title": "Between the World and Me",
     "color": "hsla(45, 100%, 99%, 1)",
     "rating": 4.37,
-    "numRatings": 288764,
+    "numRatings": 288791,
     "published": 2015
   },
   {
@@ -59,7 +59,7 @@
     "title": "Night  (The Night Trilogy, #1)",
     "color": "hsla(60, 100%, 98%, 1)",
     "rating": 4.34,
-    "numRatings": 1056566,
+    "numRatings": 1056663,
     "published": 1956
   },
   {
@@ -68,7 +68,7 @@
     "title": "Becoming",
     "color": "hsla(183, 18%, 75%, 1)",
     "rating": 4.5,
-    "numRatings": 755756,
+    "numRatings": 755935,
     "published": 2018
   },
   {
@@ -77,7 +77,7 @@
     "title": "Sapiens: A Brief History of Humankind",
     "color": "hsla(60, 100%, 99%, 1)",
     "rating": 4.39,
-    "numRatings": 679765,
+    "numRatings": 679919,
     "published": 2011
   },
   {
@@ -86,7 +86,7 @@
     "title": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",
     "color": "hsla(120, 100%, 2%, 1)",
     "rating": 3.99,
-    "numRatings": 769812,
+    "numRatings": 769860,
     "published": 2005
   },
   {
@@ -95,7 +95,7 @@
     "title": "Outliers: The Story of Success",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 4.17,
-    "numRatings": 642146,
+    "numRatings": 642221,
     "published": 2008
   },
   {
@@ -104,7 +104,7 @@
     "title": "Bossypants",
     "color": "hsla(38, 36%, 96%, 1)",
     "rating": 3.95,
-    "numRatings": 915611,
+    "numRatings": 915676,
     "published": 2011
   },
   {
@@ -113,7 +113,7 @@
     "title": "Stiff: The Curious Lives of Human Cadavers",
     "color": "hsla(330, 8%, 10%, 1)",
     "rating": 4.04,
-    "numRatings": 191797,
+    "numRatings": 191809,
     "published": 2003
   },
   {
@@ -122,7 +122,7 @@
     "title": "Born a Crime: Stories From a South African Childhood",
     "color": "hsla(180, 100%, 97%, 1)",
     "rating": 4.45,
-    "numRatings": 502145,
+    "numRatings": 502259,
     "published": 2016
   },
   {
@@ -131,7 +131,7 @@
     "title": "Into the Wild",
     "color": "hsla(300, 100%, 100%, 1)",
     "rating": 3.99,
-    "numRatings": 950179,
+    "numRatings": 950250,
     "published": 1996
   },
   {
@@ -140,7 +140,7 @@
     "title": "In Cold Blood",
     "color": "hsla(0, 0%, 0%, 1)",
     "rating": 4.06,
-    "numRatings": 585462,
+    "numRatings": 585514,
     "published": 1965
   },
   {
@@ -149,7 +149,7 @@
     "title": "The Glass Castle",
     "color": "hsla(180, 100%, 99%, 1)",
     "rating": 4.28,
-    "numRatings": 996497,
+    "numRatings": 996592,
     "published": 2005
   },
   {
@@ -158,7 +158,7 @@
     "title": "We Should All Be Feminists",
     "color": "hsla(60, 100%, 97%, 1)",
     "rating": 4.43,
-    "numRatings": 217677,
+    "numRatings": 217727,
     "published": 2014
   },
   {
@@ -167,17 +167,8 @@
     "title": "Blink: The Power of Thinking Without Thinking",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 3.94,
-    "numRatings": 533291,
+    "numRatings": 533330,
     "published": 2005
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418767178l/22318578._SX50_.jpg",
-    "url": "/book/show/22318578-the-life-changing-magic-of-tidying-up",
-    "title": "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
-    "color": "hsla(82, 40%, 92%, 1)",
-    "rating": 3.85,
-    "numRatings": 313120,
-    "published": 2011
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499131009l/35068432._SY75_.jpg",
@@ -185,7 +176,7 @@
     "title": "I'll Be Gone in the Dark: One Woman's Obsessive Search for the Golden State Killer",
     "color": "hsla(0, 0%, 0%, 1)",
     "rating": 4.1,
-    "numRatings": 197776,
+    "numRatings": 197812,
     "published": 2018
   },
   {
@@ -194,7 +185,7 @@
     "title": "Unbroken: A World War II Story of Survival, Resilience and Redemption",
     "color": "hsla(240, 100%, 0%, 1)",
     "rating": 4.35,
-    "numRatings": 843303,
+    "numRatings": 843364,
     "published": 2010
   },
   {
@@ -203,7 +194,7 @@
     "title": "Guns, Germs, and Steel: The Fates of Human Societies",
     "color": "hsla(60, 100%, 100%, 1)",
     "rating": 4.03,
-    "numRatings": 345633,
+    "numRatings": 345675,
     "published": 1997
   },
   {
@@ -212,7 +203,7 @@
     "title": "The Tipping Point: How Little Things Can Make a Big Difference",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 3.98,
-    "numRatings": 742360,
+    "numRatings": 742404,
     "published": 2000
   },
   {
@@ -221,7 +212,7 @@
     "title": "On Writing: A Memoir of the Craft",
     "color": "hsla(0, 0%, 0%, 1)",
     "rating": 4.31,
-    "numRatings": 248864,
+    "numRatings": 248889,
     "published": 2000
   },
   {
@@ -230,7 +221,7 @@
     "title": "Wild: From Lost to Found on the Pacific Crest Trail",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 4.02,
-    "numRatings": 680953,
+    "numRatings": 681018,
     "published": 2012
   },
   {
@@ -239,7 +230,7 @@
     "title": "A Short History of Nearly Everything",
     "color": "hsla(217, 39%, 31%, 1)",
     "rating": 4.18,
-    "numRatings": 338749,
+    "numRatings": 338779,
     "published": 2003
   },
   {
@@ -248,7 +239,7 @@
     "title": "When Breath Becomes Air",
     "color": "hsla(30, 100%, 96%, 1)",
     "rating": 4.36,
-    "numRatings": 491438,
+    "numRatings": 491499,
     "published": 2016
   },
   {
@@ -257,7 +248,7 @@
     "title": "Into Thin Air: A Personal Account of the Mount Everest Disaster",
     "color": "hsla(30, 100%, 100%, 1)",
     "rating": 4.19,
-    "numRatings": 432993,
+    "numRatings": 433030,
     "published": 1997
   },
   {
@@ -266,17 +257,8 @@
     "title": "Hillbilly Elegy: A Memoir of a Family and Culture in Crisis",
     "color": "hsla(204, 10%, 80%, 1)",
     "rating": 3.9,
-    "numRatings": 359255,
+    "numRatings": 359300,
     "published": 2016
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402815435l/20910157._SY75_.jpg",
-    "url": "/book/show/20910157-yes-please",
-    "title": "Yes Please",
-    "color": "hsla(0, 5%, 25%, 1)",
-    "rating": 3.83,
-    "numRatings": 471139,
-    "published": 2014
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395609800l/20342617._SY75_.jpg",
@@ -284,7 +266,7 @@
     "title": "Just Mercy: A Story of Justice and Redemption",
     "color": "hsla(0, 0%, 93%, 1)",
     "rating": 4.57,
-    "numRatings": 185767,
+    "numRatings": 185809,
     "published": 2014
   },
   {
@@ -293,7 +275,7 @@
     "title": "The New Jim Crow: Mass Incarceration in the Age of Colorblindness",
     "color": "hsla(0, 100%, 0%, 1)",
     "rating": 4.46,
-    "numRatings": 95999,
+    "numRatings": 96009,
     "published": 2010
   },
   {
@@ -302,7 +284,7 @@
     "title": "Man's Search for Meaning",
     "color": "hsla(0, 0%, 0%, 1)",
     "rating": 4.35,
-    "numRatings": 499872,
+    "numRatings": 499977,
     "published": 1946
   },
   {
@@ -311,7 +293,7 @@
     "title": "I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban",
     "color": "hsla(343, 100%, 31%, 1)",
     "rating": 4.12,
-    "numRatings": 485697,
+    "numRatings": 485762,
     "published": 2012
   },
   {
@@ -320,17 +302,8 @@
     "title": "A Walk in the Woods: Rediscovering America on the Appalachian Trail",
     "color": "hsla(0, 100%, 1%, 1)",
     "rating": 4.05,
-    "numRatings": 371133,
+    "numRatings": 371156,
     "published": 1998
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443264638l/10335308._SY75_.jpg",
-    "url": "/book/show/10335308-is-everyone-hanging-out-without-me",
-    "title": "Is Everyone Hanging Out Without Me? (And Other Concerns)",
-    "color": "hsla(300, 100%, 100%, 1)",
-    "rating": 3.85,
-    "numRatings": 453210,
-    "published": 2011
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614966481l/43708708._SX50_.jpg",
@@ -338,7 +311,7 @@
     "title": "White Fragility: Why It’s So Hard for White People to Talk About Racism",
     "color": "hsla(240, 100%, 0%, 1)",
     "rating": 4.21,
-    "numRatings": 136148,
+    "numRatings": 136168,
     "published": 2018
   },
   {
@@ -347,7 +320,7 @@
     "title": "Bad Feminist",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 3.94,
-    "numRatings": 97613,
+    "numRatings": 97622,
     "published": 2014
   },
   {
@@ -356,7 +329,7 @@
     "title": "Killers of the Flower Moon: The Osage Murders and the Birth of the FBI",
     "color": "hsla(60, 100%, 97%, 1)",
     "rating": 4.06,
-    "numRatings": 160186,
+    "numRatings": 160234,
     "published": 2017
   },
   {
@@ -365,7 +338,7 @@
     "title": "So You Want to Talk About Race",
     "color": "hsla(56, 18%, 81%, 1)",
     "rating": 4.5,
-    "numRatings": 90039,
+    "numRatings": 90056,
     "published": 2018
   },
   {
@@ -374,7 +347,7 @@
     "title": "How to Be an Antiracist",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 4.37,
-    "numRatings": 95040,
+    "numRatings": 95061,
     "published": 2019
   },
   {
@@ -383,7 +356,7 @@
     "title": "The Omnivore's Dilemma: A Natural History of Four Meals",
     "color": "hsla(120, 100%, 0%, 1)",
     "rating": 4.15,
-    "numRatings": 198015,
+    "numRatings": 198024,
     "published": 2006
   },
   {
@@ -392,17 +365,8 @@
     "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
     "color": "hsla(18, 79%, 52%, 1)",
     "rating": 3.92,
-    "numRatings": 690397,
+    "numRatings": 690538,
     "published": 2016
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1599591284l/39507318._SY75_.jpg",
-    "url": "/book/show/39507318-the-library-book",
-    "title": "The Library Book",
-    "color": "hsla(359, 80%, 53%, 1)",
-    "rating": 3.88,
-    "numRatings": 98368,
-    "published": 2018
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545854312l/12609433._SY75_.jpg",
@@ -410,7 +374,7 @@
     "title": "The Power of Habit: Why We Do What We Do in Life and Business",
     "color": "hsla(53, 97%, 61%, 1)",
     "rating": 4.11,
-    "numRatings": 404756,
+    "numRatings": 404828,
     "published": 2012
   },
   {
@@ -419,7 +383,7 @@
     "title": "Thinking, Fast and Slow",
     "color": "hsla(51, 37%, 96%, 1)",
     "rating": 4.16,
-    "numRatings": 374882,
+    "numRatings": 374947,
     "published": 2011
   },
   {
@@ -428,17 +392,8 @@
     "title": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
     "color": "hsla(0, 100%, 0%, 1)",
     "rating": 4.38,
-    "numRatings": 206399,
+    "numRatings": 206456,
     "published": 2018
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503066414l/19501._SY75_.jpg",
-    "url": "/book/show/19501.Eat_Pray_Love",
-    "title": "Eat, Pray, Love: One Woman's Search for Everything Across Italy, India and Indonesia",
-    "color": "hsla(53, 100%, 98%, 1)",
-    "rating": 3.59,
-    "numRatings": 1580438,
-    "published": 2006
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333578746l/3869._SX50_.jpg",
@@ -446,7 +401,7 @@
     "title": "A Brief History of Time",
     "color": "hsla(240, 100%, 0%, 1)",
     "rating": 4.19,
-    "numRatings": 350851,
+    "numRatings": 350914,
     "published": 1988
   },
   {
@@ -455,7 +410,7 @@
     "title": "Astrophysics for People in a Hurry",
     "color": "hsla(222, 43%, 18%, 1)",
     "rating": 4.07,
-    "numRatings": 137526,
+    "numRatings": 137550,
     "published": 2017
   },
   {
@@ -464,7 +419,7 @@
     "title": "The Man Who Mistook His Wife for a Hat and Other Clinical Tales",
     "color": "hsla(60, 100%, 87%, 1)",
     "rating": 4.05,
-    "numRatings": 184759,
+    "numRatings": 184778,
     "published": 1985
   },
   {
@@ -473,7 +428,7 @@
     "title": "The Radium Girls: The Dark Story of America's Shining Women",
     "color": "hsla(0, 0%, 5%, 1)",
     "rating": 4.12,
-    "numRatings": 102981,
+    "numRatings": 103012,
     "published": 2017
   },
   {
@@ -482,17 +437,8 @@
     "title": "The Radium Girls: The Dark Story of America's Shining Women",
     "color": "hsla(0, 0%, 5%, 1)",
     "rating": 4.12,
-    "numRatings": 102981,
+    "numRatings": 103012,
     "published": 2017
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442378091l/1869._SY75_.jpg",
-    "url": "/book/show/1869.Nickel_and_Dimed",
-    "title": "Nickel and Dimed: On (Not) Getting by in America",
-    "color": "hsla(300, 100%, 100%, 1)",
-    "rating": 3.64,
-    "numRatings": 187930,
-    "published": 2001
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431013639l/4137._SY75_.jpg",
@@ -500,7 +446,7 @@
     "title": "Me Talk Pretty One Day",
     "color": "hsla(190, 22%, 45%, 1)",
     "rating": 3.99,
-    "numRatings": 653629,
+    "numRatings": 653663,
     "published": 2000
   },
   {
@@ -509,7 +455,7 @@
     "title": "Evicted: Poverty and Profit in the American City",
     "color": "hsla(40, 13%, 77%, 1)",
     "rating": 4.46,
-    "numRatings": 76646,
+    "numRatings": 76661,
     "published": 2016
   },
   {
@@ -518,17 +464,8 @@
     "title": "What If? Serious Scientific Answers to Absurd Hypothetical Questions",
     "color": "hsla(60, 100%, 95%, 1)",
     "rating": 4.12,
-    "numRatings": 146569,
+    "numRatings": 146595,
     "published": 2014
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432335014l/23453112._SY75_.jpg",
-    "url": "/book/show/23453112-modern-romance",
-    "title": "Modern Romance",
-    "color": "hsla(5, 31%, 93%, 1)",
-    "rating": 3.8,
-    "numRatings": 178281,
-    "published": 2015
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597267568l/51152447._SY75_.jpg",
@@ -536,7 +473,7 @@
     "title": "Caste: The Origins of Our Discontents",
     "color": "hsla(0, 0%, 0%, 1)",
     "rating": 4.55,
-    "numRatings": 84970,
+    "numRatings": 85018,
     "published": 2020
   },
   {
@@ -545,7 +482,7 @@
     "title": "Being Mortal: Medicine and What Matters in the End",
     "color": "hsla(36, 70%, 91%, 1)",
     "rating": 4.43,
-    "numRatings": 152327,
+    "numRatings": 152348,
     "published": 2014
   },
   {
@@ -554,7 +491,7 @@
     "title": "Under the Banner of Heaven: A Story of Violent Faith",
     "color": "hsla(348, 55%, 38%, 1)",
     "rating": 3.98,
-    "numRatings": 173538,
+    "numRatings": 173555,
     "published": 2003
   },
   {
@@ -563,7 +500,7 @@
     "title": "I Know Why the Caged Bird Sings (Maya Angelou's Autobiography, #1)",
     "color": "hsla(31, 100%, 62%, 1)",
     "rating": 4.25,
-    "numRatings": 456784,
+    "numRatings": 456825,
     "published": 1969
   },
   {
@@ -572,7 +509,7 @@
     "title": "A People's History of the United States",
     "color": "hsla(180, 100%, 99%, 1)",
     "rating": 4.06,
-    "numRatings": 216768,
+    "numRatings": 216798,
     "published": 1980
   },
   {
@@ -581,7 +518,7 @@
     "title": "Talking to Strangers: What We Should Know About the People We Don’t Know",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 4.02,
-    "numRatings": 204932,
+    "numRatings": 205000,
     "published": 2019
   },
   {
@@ -590,7 +527,7 @@
     "title": "Tuesdays with Morrie",
     "color": "hsla(43, 73%, 80%, 1)",
     "rating": 4.12,
-    "numRatings": 852820,
+    "numRatings": 852909,
     "published": 1997
   },
   {
@@ -599,7 +536,7 @@
     "title": "Smoke Gets in Your Eyes & Other Lessons from the Crematory",
     "color": "hsla(49, 94%, 93%, 1)",
     "rating": 4.16,
-    "numRatings": 68920,
+    "numRatings": 68937,
     "published": 2014
   },
   {
@@ -608,17 +545,8 @@
     "title": "Hunger: A Memoir of (My) Body",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 4.16,
-    "numRatings": 91716,
+    "numRatings": 91736,
     "published": 2017
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327864303l/9938498._SY75_.jpg",
-    "url": "/book/show/9938498-in-the-garden-of-beasts",
-    "title": "In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",
-    "color": "hsla(0, 100%, 0%, 1)",
-    "rating": 3.83,
-    "numRatings": 184329,
-    "published": 2011
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535115320l/40121378._SY75_.jpg",
@@ -626,7 +554,7 @@
     "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
     "color": "hsla(60, 100%, 98%, 1)",
     "rating": 4.36,
-    "numRatings": 262656,
+    "numRatings": 262825,
     "published": 2018
   },
   {
@@ -635,7 +563,7 @@
     "title": "Kitchen Confidential: Adventures in the Culinary Underbelly",
     "color": "hsla(0, 100%, 0%, 1)",
     "rating": 4.08,
-    "numRatings": 256811,
+    "numRatings": 256842,
     "published": 2000
   },
   {
@@ -643,8 +571,8 @@
     "url": "/book/show/386187.Midnight_in_the_Garden_of_Good_and_Evil",
     "title": "Midnight in the Garden of Good and Evil",
     "color": "hsla(120, 100%, 1%, 1)",
-    "rating": 3.92,
-    "numRatings": 247483,
+    "rating": 3.91,
+    "numRatings": 247525,
     "published": 1994
   },
   {
@@ -653,17 +581,8 @@
     "title": "Maybe You Should Talk to Someone: A Therapist, Her Therapist, and Our Lives Revealed",
     "color": "hsla(197, 88%, 70%, 1)",
     "rating": 4.37,
-    "numRatings": 190166,
+    "numRatings": 190222,
     "published": 2019
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554229727l/1097._SY75_.jpg",
-    "url": "/book/show/1097.Fast_Food_Nation",
-    "title": "Fast Food Nation: The Dark Side of the All-American Meal",
-    "color": "hsla(300, 100%, 99%, 1)",
-    "rating": 3.74,
-    "numRatings": 206608,
-    "published": 2001
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442939134l/5632446._SY75_.jpg",
@@ -671,7 +590,7 @@
     "title": "Columbine",
     "color": "hsla(14, 27%, 90%, 1)",
     "rating": 4.26,
-    "numRatings": 80252,
+    "numRatings": 80265,
     "published": 2009
   },
   {
@@ -680,7 +599,7 @@
     "title": "Invisible Women: Data Bias in a World Designed for Men",
     "color": "hsla(60, 100%, 99%, 1)",
     "rating": 4.39,
-    "numRatings": 56090,
+    "numRatings": 56111,
     "published": 2019
   },
   {
@@ -689,7 +608,7 @@
     "title": "How to Win Friends and Influence People",
     "color": "hsla(300, 100%, 99%, 1)",
     "rating": 4.21,
-    "numRatings": 737464,
+    "numRatings": 737582,
     "published": 1936
   },
   {
@@ -698,7 +617,7 @@
     "title": "The Warmth of Other Suns: The Epic Story of America's Great Migration",
     "color": "hsla(0, 100%, 1%, 1)",
     "rating": 4.39,
-    "numRatings": 81836,
+    "numRatings": 81852,
     "published": 2010
   },
   {
@@ -707,7 +626,7 @@
     "title": "Hidden Figures",
     "color": "hsla(209, 60%, 71%, 1)",
     "rating": 3.92,
-    "numRatings": 97647,
+    "numRatings": 97661,
     "published": 2016
   },
   {
@@ -716,17 +635,8 @@
     "title": "Dead Wake: The Last Crossing of the Lusitania",
     "color": "hsla(0, 100%, 0%, 1)",
     "rating": 4.07,
-    "numRatings": 124794,
+    "numRatings": 124813,
     "published": 2015
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407110918l/25019._SY75_.jpg",
-    "url": "/book/show/25019.The_Professor_and_the_Madman",
-    "title": "The Professor and the Madman: A Tale of Murder, Insanity and the Making of the Oxford English Dictionary",
-    "color": "hsla(45, 100%, 99%, 1)",
-    "rating": 3.81,
-    "numRatings": 111037,
-    "published": 1998
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364166270l/12391521._SX50_.jpg",
@@ -734,7 +644,7 @@
     "title": "The Psychopath Test: A Journey Through the Madness Industry",
     "color": "hsla(255, 11%, 93%, 1)",
     "rating": 3.94,
-    "numRatings": 133911,
+    "numRatings": 133934,
     "published": 2011
   },
   {
@@ -743,7 +653,7 @@
     "title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
     "color": "hsla(340, 100%, 1%, 1)",
     "rating": 4.33,
-    "numRatings": 252281,
+    "numRatings": 252313,
     "published": 2013
   },
   {
@@ -752,17 +662,8 @@
     "title": "Brain on Fire: My Month of Madness",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 4.05,
-    "numRatings": 187881,
+    "numRatings": 187902,
     "published": 2012
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523830369l/23848559._SY75_.jpg",
-    "url": "/book/show/23848559-furiously-happy",
-    "title": "Furiously Happy: A Funny Book About Horrible Things",
-    "color": "hsla(46, 73%, 47%, 1)",
-    "rating": 3.87,
-    "numRatings": 148258,
-    "published": 2015
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315601232l/11869272._SX50_.jpg",
@@ -770,7 +671,7 @@
     "title": "Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity",
     "color": "hsla(60, 100%, 95%, 1)",
     "rating": 3.97,
-    "numRatings": 104058,
+    "numRatings": 104068,
     "published": 2012
   },
   {
@@ -779,7 +680,7 @@
     "title": "Bird by Bird: Some Instructions on Writing and Life",
     "color": "hsla(60, 100%, 98%, 1)",
     "rating": 4.21,
-    "numRatings": 88347,
+    "numRatings": 88358,
     "published": 1994
   },
   {
@@ -788,7 +689,7 @@
     "title": "The Art of War",
     "color": "hsla(0, 0%, 0%, 1)",
     "rating": 3.97,
-    "numRatings": 379572,
+    "numRatings": 379633,
     "published": -500
   },
   {
@@ -797,17 +698,8 @@
     "title": "Know My Name",
     "color": "hsla(188, 56%, 22%, 1)",
     "rating": 4.72,
-    "numRatings": 104434,
+    "numRatings": 104485,
     "published": 2019
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393447237l/18528190._SX50_.jpg",
-    "url": "/book/show/18528190-men-explain-things-to-me",
-    "title": "Men Explain Things to Me",
-    "color": "hsla(196, 100%, 29%, 1)",
-    "rating": 3.86,
-    "numRatings": 62480,
-    "published": 2014
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571119278l/51022071._SX50_SY75_.jpg",
@@ -815,7 +707,7 @@
     "title": "Catch and Kill: Lies, Spies, and a Conspiracy to Protect Predators",
     "color": "hsla(0, 0%, 0%, 1)",
     "rating": 4.41,
-    "numRatings": 82896,
+    "numRatings": 82906,
     "published": 2019
   },
   {
@@ -824,17 +716,8 @@
     "title": "The Emperor of All Maladies: A Biography of Cancer",
     "color": "hsla(41, 47%, 90%, 1)",
     "rating": 4.27,
-    "numRatings": 91162,
+    "numRatings": 91174,
     "published": 2010
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473392595l/8600._SX50_.jpg",
-    "url": "/book/show/8600.Eats_Shoots_Leaves",
-    "title": "Eats, Shoots & Leaves: The Zero Tolerance Approach to Punctuation",
-    "color": "hsla(0, 0%, 100%, 1)",
-    "rating": 3.85,
-    "numRatings": 107248,
-    "published": 2003
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348317139l/252577._SY75_.jpg",
@@ -842,7 +725,7 @@
     "title": "Angela's Ashes (Frank McCourt, #1)",
     "color": "hsla(45, 62%, 89%, 1)",
     "rating": 4.12,
-    "numRatings": 575981,
+    "numRatings": 576023,
     "published": 1996
   },
   {
@@ -851,17 +734,8 @@
     "title": "The Sixth Extinction: An Unnatural History",
     "color": "hsla(47, 96%, 52%, 1)",
     "rating": 4.13,
-    "numRatings": 57570,
+    "numRatings": 57580,
     "published": 2014
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327878638l/7815._SY75_.jpg",
-    "url": "/book/show/7815.The_Year_of_Magical_Thinking",
-    "title": "The Year of Magical Thinking",
-    "color": "hsla(60, 100%, 94%, 1)",
-    "rating": 3.88,
-    "numRatings": 169149,
-    "published": 2005
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327883012l/18521._SY75_.jpg",
@@ -869,7 +743,7 @@
     "title": "A Room of One's Own",
     "color": "hsla(242, 35%, 30%, 1)",
     "rating": 4.18,
-    "numRatings": 142836,
+    "numRatings": 142863,
     "published": 1929
   },
   {
@@ -878,17 +752,8 @@
     "title": "Nothing to Envy: Ordinary Lives in North Korea",
     "color": "hsla(300, 100%, 100%, 1)",
     "rating": 4.41,
-    "numRatings": 74298,
+    "numRatings": 74314,
     "published": 2009
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395407074l/49436._SY75_.jpg",
-    "url": "/book/show/49436.Three_Cups_of_Tea",
-    "title": "Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time",
-    "color": "hsla(0, 0%, 87%, 1)",
-    "rating": 3.65,
-    "numRatings": 342724,
-    "published": 2006
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337110319l/13588356._SY75_.jpg",
@@ -896,17 +761,8 @@
     "title": "Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",
     "color": "hsla(0, 4%, 29%, 1)",
     "rating": 4.24,
-    "numRatings": 162668,
+    "numRatings": 162704,
     "published": 2012
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473956249l/30268522._SY75_.jpg",
-    "url": "/book/show/30268522-why-not-me",
-    "title": "Why Not Me?",
-    "color": "hsla(186, 42%, 81%, 1)",
-    "rating": 3.89,
-    "numRatings": 196832,
-    "published": 2015
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349098526l/9542311._SX50_.jpg",
@@ -914,7 +770,7 @@
     "title": "Packing for Mars: The Curious Science of Life in the Void",
     "color": "hsla(0, 0%, 0%, 1)",
     "rating": 3.93,
-    "numRatings": 55948,
+    "numRatings": 55953,
     "published": 2010
   },
   {
@@ -923,7 +779,7 @@
     "title": "In Defense of Food: An Eater's Manifesto",
     "color": "hsla(42, 31%, 94%, 1)",
     "rating": 4.05,
-    "numRatings": 112651,
+    "numRatings": 112662,
     "published": 2008
   },
   {
@@ -932,7 +788,7 @@
     "title": "Why We Sleep: Unlocking the Power of Sleep and Dreams",
     "color": "hsla(212, 100%, 15%, 1)",
     "rating": 4.35,
-    "numRatings": 118310,
+    "numRatings": 118354,
     "published": 2017
   },
   {
@@ -941,17 +797,8 @@
     "title": "Say Nothing: A True Story of Murder and Memory in Northern Ireland",
     "color": "hsla(0, 0%, 2%, 1)",
     "rating": 4.39,
-    "numRatings": 70328,
+    "numRatings": 70351,
     "published": 2018
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335719323l/5981308._SX50_.jpg",
-    "url": "/book/show/5981308-bonk",
-    "title": "Bonk: The Curious Coupling of Science and Sex",
-    "color": "hsla(194, 75%, 65%, 1)",
-    "rating": 3.84,
-    "numRatings": 56582,
-    "published": 2008
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529682044l/40611510._SX50_.jpg",
@@ -959,7 +806,7 @@
     "title": "The Last Lecture",
     "color": "hsla(240, 100%, 5%, 1)",
     "rating": 4.23,
-    "numRatings": 327091,
+    "numRatings": 327122,
     "published": 2008
   },
   {
@@ -968,7 +815,7 @@
     "title": "Hood Feminism: Notes from the Women That a Movement Forgot",
     "color": "hsla(60, 100%, 98%, 1)",
     "rating": 4.42,
-    "numRatings": 28041,
+    "numRatings": 28057,
     "published": 2020
   },
   {
@@ -977,7 +824,7 @@
     "title": "The Fire Next Time",
     "color": "hsla(0, 0%, 0%, 1)",
     "rating": 4.5,
-    "numRatings": 78024,
+    "numRatings": 78045,
     "published": 1963
   },
   {
@@ -986,7 +833,7 @@
     "title": "The Autobiography of Malcolm X",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 4.32,
-    "numRatings": 235232,
+    "numRatings": 235280,
     "published": 1965
   },
   {
@@ -995,7 +842,7 @@
     "title": "Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",
     "color": "hsla(31, 94%, 60%, 1)",
     "rating": 4.12,
-    "numRatings": 198103,
+    "numRatings": 198122,
     "published": 2013
   },
   {
@@ -1004,7 +851,7 @@
     "title": "Homo Deus: A History of Tomorrow",
     "color": "hsla(0, 0%, 0%, 1)",
     "rating": 4.21,
-    "numRatings": 190272,
+    "numRatings": 190312,
     "published": 2015
   },
   {
@@ -1013,44 +860,8 @@
     "title": "Dear Ijeawele, or a Feminist Manifesto in Fifteen Suggestions",
     "color": "hsla(255, 37%, 41%, 1)",
     "rating": 4.5,
-    "numRatings": 67934,
+    "numRatings": 67946,
     "published": 2017
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347220693l/14743._SY75_.jpg",
-    "url": "/book/show/14743.The_God_Delusion",
-    "title": "The God Delusion",
-    "color": "hsla(180, 100%, 100%, 1)",
-    "rating": 3.89,
-    "numRatings": 252964,
-    "published": 2006
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1256849491l/6398634._SY75_.jpg",
-    "url": "/book/show/6398634-the-happiness-project",
-    "title": "The Happiness Project: Or Why I Spent a Year Trying to Sing in the Morning, Clean My Closets, Fight Right, Read Aristotle, and Generally Have More Fun",
-    "color": "hsla(191, 100%, 42%, 1)",
-    "rating": 3.63,
-    "numRatings": 159242,
-    "published": 2009
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489415716l/12868761._SY75_.jpg",
-    "url": "/book/show/12868761-let-s-pretend-this-never-happened",
-    "title": "Let's Pretend This Never Happened: A Mostly True Memoir",
-    "color": "hsla(208, 8%, 32%, 1)",
-    "rating": 3.86,
-    "numRatings": 185783,
-    "published": 2012
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320520714l/6314763._SY75_.jpg",
-    "url": "/book/show/6314763-orange-is-the-new-black",
-    "title": "Orange Is the New Black",
-    "color": "hsla(0, 0%, 0%, 1)",
-    "rating": 3.71,
-    "numRatings": 193850,
-    "published": 2010
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630483761l/16071764._SY75_.jpg",
@@ -1058,7 +869,7 @@
     "title": "Lean In: Women, Work, and the Will to Lead",
     "color": "hsla(30, 100%, 100%, 1)",
     "rating": 3.94,
-    "numRatings": 244501,
+    "numRatings": 244514,
     "published": 2013
   },
   {
@@ -1067,7 +878,7 @@
     "title": "Big Magic: Creative Living Beyond Fear",
     "color": "hsla(300, 100%, 97%, 1)",
     "rating": 3.93,
-    "numRatings": 176696,
+    "numRatings": 176716,
     "published": 2015
   },
   {
@@ -1076,7 +887,7 @@
     "title": "Alexander Hamilton",
     "color": "hsla(44, 56%, 80%, 1)",
     "rating": 4.17,
-    "numRatings": 158646,
+    "numRatings": 158671,
     "published": 2004
   },
   {
@@ -1085,7 +896,7 @@
     "title": "Fun Home: A Family Tragicomic",
     "color": "hsla(174, 100%, 22%, 1)",
     "rating": 4.05,
-    "numRatings": 154371,
+    "numRatings": 154396,
     "published": 2006
   },
   {
@@ -1094,7 +905,7 @@
     "title": "David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 3.95,
-    "numRatings": 163036,
+    "numRatings": 163060,
     "published": 2013
   },
   {
@@ -1103,17 +914,8 @@
     "title": "Stamped from the Beginning: The Definitive History of Racist Ideas in America",
     "color": "hsla(0, 100%, 1%, 1)",
     "rating": 4.52,
-    "numRatings": 29303,
+    "numRatings": 29317,
     "published": 2016
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320487318l/3398625._SY75_.jpg",
-    "url": "/book/show/3398625-the-lost-city-of-z",
-    "title": "The Lost City of Z: A Tale of Deadly Obsession in the Amazon",
-    "color": "hsla(120, 100%, 0%, 1)",
-    "rating": 3.84,
-    "numRatings": 84264,
-    "published": 2009
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413749614l/22571552._SX50_.jpg",
@@ -1121,7 +923,7 @@
     "title": "So You've Been Publicly Shamed",
     "color": "hsla(210, 19%, 86%, 1)",
     "rating": 3.93,
-    "numRatings": 56473,
+    "numRatings": 56484,
     "published": 2015
   },
   {
@@ -1130,7 +932,7 @@
     "title": "Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think",
     "color": "hsla(300, 100%, 99%, 1)",
     "rating": 4.33,
-    "numRatings": 142652,
+    "numRatings": 142732,
     "published": 2018
   },
   {
@@ -1139,7 +941,7 @@
     "title": "A Promised Land",
     "color": "hsla(60, 1%, 65%, 1)",
     "rating": 4.37,
-    "numRatings": 137072,
+    "numRatings": 137166,
     "published": 2020
   },
   {
@@ -1148,7 +950,7 @@
     "title": "In the Dream House",
     "color": "hsla(120, 100%, 0%, 1)",
     "rating": 4.49,
-    "numRatings": 50631,
+    "numRatings": 50667,
     "published": 2019
   },
   {
@@ -1157,7 +959,7 @@
     "title": "Stamped: Racism, Antiracism, and You",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 4.47,
-    "numRatings": 40869,
+    "numRatings": 40878,
     "published": 2020
   },
   {
@@ -1166,7 +968,7 @@
     "title": "Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",
     "color": "hsla(203, 64%, 55%, 1)",
     "rating": 4.29,
-    "numRatings": 183849,
+    "numRatings": 183867,
     "published": 2009
   },
   {
@@ -1175,26 +977,8 @@
     "title": "Lies My Teacher Told Me: Everything Your American History Textbook Got Wrong",
     "color": "hsla(120, 100%, 1%, 1)",
     "rating": 3.93,
-    "numRatings": 64737,
+    "numRatings": 64748,
     "published": 1995
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397751318l/7603._SY75_.jpg",
-    "url": "/book/show/7603.Reading_Lolita_in_Tehran",
-    "title": "Reading Lolita in Tehran: A Memoir in Books",
-    "color": "hsla(60, 100%, 94%, 1)",
-    "rating": 3.62,
-    "numRatings": 132812,
-    "published": 2003
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390055828l/28862._SY75_.jpg",
-    "url": "/book/show/28862.The_Prince",
-    "title": "The Prince",
-    "color": "hsla(0, 100%, 0%, 1)",
-    "rating": 3.82,
-    "numRatings": 286525,
-    "published": 1532
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421842784l/36072._SY75_.jpg",
@@ -1202,7 +986,7 @@
     "title": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
     "color": "hsla(180, 100%, 97%, 1)",
     "rating": 4.13,
-    "numRatings": 604913,
+    "numRatings": 605031,
     "published": 1988
   },
   {
@@ -1211,7 +995,7 @@
     "title": "A Child Called \"It\" (Dave Pelzer, #1)",
     "color": "hsla(0, 8%, 31%, 1)",
     "rating": 4.11,
-    "numRatings": 400357,
+    "numRatings": 400380,
     "published": 1995
   },
   {
@@ -1220,17 +1004,8 @@
     "title": "Persepolis: The Story of a Childhood (Persepolis, #1)",
     "color": "hsla(344, 100%, 45%, 1)",
     "rating": 4.23,
-    "numRatings": 178200,
+    "numRatings": 178230,
     "published": 2003
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496315917l/26025989._SY75_.jpg",
-    "url": "/book/show/26025989-the-princess-diarist",
-    "title": "The Princess Diarist",
-    "color": "hsla(16, 14%, 32%, 1)",
-    "rating": 3.68,
-    "numRatings": 78194,
-    "published": 2016
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347694754l/105992._SY75_.jpg",
@@ -1238,7 +1013,7 @@
     "title": "Helter Skelter: The True Story of the Manson Murders",
     "color": "hsla(0, 100%, 0%, 1)",
     "rating": 4.04,
-    "numRatings": 135585,
+    "numRatings": 135601,
     "published": 1974
   },
   {
@@ -1247,7 +1022,7 @@
     "title": "Why I'm No Longer Talking to White People About Race",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 4.38,
-    "numRatings": 79392,
+    "numRatings": 79410,
     "published": 2017
   },
   {
@@ -1256,7 +1031,7 @@
     "title": "The Spirit Catches You and You Fall Down: A Hmong Child, Her American Doctors, and the Collision of Two Cultures",
     "color": "hsla(49, 100%, 92%, 1)",
     "rating": 4.16,
-    "numRatings": 76250,
+    "numRatings": 76267,
     "published": 1997
   },
   {
@@ -1265,7 +1040,7 @@
     "title": "Lab Girl",
     "color": "hsla(45, 84%, 93%, 1)",
     "rating": 3.95,
-    "numRatings": 63262,
+    "numRatings": 63274,
     "published": 2016
   },
   {
@@ -1274,7 +1049,7 @@
     "title": "The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus",
     "color": "hsla(300, 100%, 99%, 1)",
     "rating": 4.13,
-    "numRatings": 104809,
+    "numRatings": 104816,
     "published": 1994
   },
   {
@@ -1283,7 +1058,7 @@
     "title": "At Home: A Short History of Private Life",
     "color": "hsla(359, 100%, 56%, 1)",
     "rating": 3.96,
-    "numRatings": 88110,
+    "numRatings": 88125,
     "published": 2010
   },
   {
@@ -1292,7 +1067,7 @@
     "title": "Animal, Vegetable, Miracle: A Year of Food Life",
     "color": "hsla(85, 33%, 42%, 1)",
     "rating": 4.01,
-    "numRatings": 110080,
+    "numRatings": 110098,
     "published": 2007
   },
   {
@@ -1301,7 +1076,7 @@
     "title": "As You Wish: Inconceivable Tales from the Making of The Princess Bride",
     "color": "hsla(0, 100%, 0%, 1)",
     "rating": 4.07,
-    "numRatings": 61350,
+    "numRatings": 61362,
     "published": 2014
   },
   {
@@ -1310,7 +1085,7 @@
     "title": "March: Book One (March, #1)",
     "color": "hsla(0, 100%, 2%, 1)",
     "rating": 4.28,
-    "numRatings": 51578,
+    "numRatings": 51587,
     "published": 2013
   },
   {
@@ -1319,7 +1094,7 @@
     "title": "Mere Christianity",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 4.32,
-    "numRatings": 335825,
+    "numRatings": 335864,
     "published": 1942
   },
   {
@@ -1328,7 +1103,7 @@
     "title": "Eating Animals",
     "color": "hsla(180, 100%, 99%, 1)",
     "rating": 4.19,
-    "numRatings": 72246,
+    "numRatings": 72248,
     "published": 2009
   },
   {
@@ -1337,17 +1112,8 @@
     "title": "Shrill: Notes from a Loud Woman",
     "color": "hsla(347, 100%, 44%, 1)",
     "rating": 4.15,
-    "numRatings": 56324,
+    "numRatings": 56338,
     "published": 2016
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430524696l/36086._SY75_.jpg",
-    "url": "/book/show/36086.The_Ghost_Map",
-    "title": "The Ghost Map: The Story of London's Most Terrifying Epidemic—and How It Changed Science, Cities, and the Modern World",
-    "color": "hsla(162, 25%, 10%, 1)",
-    "rating": 3.86,
-    "numRatings": 50659,
-    "published": 2006
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544069605l/43126457._SY75_.jpg",
@@ -1355,7 +1121,16 @@
     "title": "Trick Mirror: Reflections on Self-Delusion",
     "color": "hsla(43, 100%, 65%, 1)",
     "rating": 4.13,
-    "numRatings": 48805,
+    "numRatings": 48821,
+    "published": 2019
+  },
+  {
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593186716l/52672113._SY75_.jpg",
+    "url": "/book/show/52672113-will-my-cat-eat-my-eyeballs-and-other-questions-about-dead-bodies",
+    "title": "Will My Cat Eat My Eyeballs? And other Questions about Dead Bodies",
+    "color": "hsla(54, 89%, 93%, 1)",
+    "rating": 4.11,
+    "numRatings": 27773,
     "published": 2019
   },
   {
@@ -1364,17 +1139,8 @@
     "title": "Missoula: Rape and the Justice System in a College Town",
     "color": "hsla(180, 100%, 97%, 1)",
     "rating": 4.07,
-    "numRatings": 49861,
+    "numRatings": 49869,
     "published": 2015
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593186716l/52672113._SY75_.jpg",
-    "url": "/book/show/52672113-will-my-cat-eat-my-eyeballs-and-other-questions-about-dead-bodies",
-    "title": "Will My Cat Eat My Eyeballs? And other Questions about Dead Bodies",
-    "color": "hsla(54, 89%, 93%, 1)",
-    "rating": 4.11,
-    "numRatings": 27767,
-    "published": 2019
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388234247l/36529._SY75_.jpg",
@@ -1382,7 +1148,7 @@
     "title": "Narrative of the Life of Frederick Douglass",
     "color": "hsla(24, 23%, 77%, 1)",
     "rating": 4.04,
-    "numRatings": 109340,
+    "numRatings": 109360,
     "published": 1845
   },
   {
@@ -1391,8 +1157,17 @@
     "title": "The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",
     "color": "hsla(60, 100%, 96%, 1)",
     "rating": 3.91,
-    "numRatings": 45957,
+    "numRatings": 45961,
     "published": 2010
+  },
+  {
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569289026l/50088631._SX50_SY75_.jpg",
+    "url": "/book/show/50088631-hidden-valley-road",
+    "title": "Hidden Valley Road: Inside the Mind of an American Family",
+    "color": "hsla(120, 100%, 1%, 1)",
+    "rating": 4.13,
+    "numRatings": 76153,
+    "published": 2020
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545238592l/39020._SY75_.jpg",
@@ -1400,7 +1175,7 @@
     "title": "1491: New Revelations of the Americas Before Columbus",
     "color": "hsla(48, 100%, 83%, 1)",
     "rating": 4,
-    "numRatings": 77102,
+    "numRatings": 77112,
     "published": 2005
   },
   {
@@ -1409,17 +1184,8 @@
     "title": "Gulp: Adventures on the Alimentary Canal",
     "color": "hsla(300, 100%, 100%, 1)",
     "rating": 3.9,
-    "numRatings": 45627,
+    "numRatings": 45637,
     "published": 2013
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569289026l/50088631._SX50_SY75_.jpg",
-    "url": "/book/show/50088631-hidden-valley-road",
-    "title": "Hidden Valley Road: Inside the Mind of an American Family",
-    "color": "hsla(120, 100%, 1%, 1)",
-    "rating": 4.13,
-    "numRatings": 76104,
-    "published": 2020
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1604058784l/76401._SX50_.jpg",
@@ -1427,7 +1193,7 @@
     "title": "Bury My Heart at Wounded Knee: An Indian History of the American West",
     "color": "hsla(0, 100%, 2%, 1)",
     "rating": 4.18,
-    "numRatings": 80939,
+    "numRatings": 80955,
     "published": 1970
   },
   {
@@ -1436,7 +1202,7 @@
     "title": "1776",
     "color": "hsla(0, 100%, 2%, 1)",
     "rating": 4.05,
-    "numRatings": 209709,
+    "numRatings": 209735,
     "published": 2005
   },
   {
@@ -1445,17 +1211,8 @@
     "title": "The Elements of Style",
     "color": "hsla(217, 20%, 84%, 1)",
     "rating": 4.14,
-    "numRatings": 82824,
+    "numRatings": 82831,
     "published": 1918
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533310414l/38212121._SY75_.jpg",
-    "url": "/book/show/38212121-from-here-to-eternity",
-    "title": "From Here to Eternity: Traveling the World to Find the Good Death",
-    "color": "hsla(48, 43%, 91%, 1)",
-    "rating": 4.24,
-    "numRatings": 28816,
-    "published": 2017
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594559067l/18693771._SY75_.jpg",
@@ -1463,8 +1220,17 @@
     "title": "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",
     "color": "hsla(213, 49%, 50%, 1)",
     "rating": 4.44,
-    "numRatings": 67164,
+    "numRatings": 67198,
     "published": 2014
+  },
+  {
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533310414l/38212121._SY75_.jpg",
+    "url": "/book/show/38212121-from-here-to-eternity",
+    "title": "From Here to Eternity: Traveling the World to Find the Good Death",
+    "color": "hsla(48, 43%, 91%, 1)",
+    "rating": 4.24,
+    "numRatings": 28837,
+    "published": 2017
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429924065l/25422234._SX50_.jpg",
@@ -1472,7 +1238,7 @@
     "title": "Notorious RBG: The Life and Times of Ruth Bader Ginsburg",
     "color": "hsla(41, 82%, 93%, 1)",
     "rating": 4.14,
-    "numRatings": 55880,
+    "numRatings": 55890,
     "published": 2015
   },
   {
@@ -1481,7 +1247,7 @@
     "title": "Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants",
     "color": "hsla(60, 100%, 99%, 1)",
     "rating": 4.56,
-    "numRatings": 40594,
+    "numRatings": 40617,
     "published": 2013
   },
   {
@@ -1490,7 +1256,7 @@
     "title": "Steve Jobs",
     "color": "hsla(300, 100%, 100%, 1)",
     "rating": 4.15,
-    "numRatings": 1069914,
+    "numRatings": 1070013,
     "published": 2011
   },
   {
@@ -1499,17 +1265,8 @@
     "title": "The 5 Love Languages: The Secret to Love that Lasts",
     "color": "hsla(299, 60%, 36%, 1)",
     "rating": 4.24,
-    "numRatings": 341327,
+    "numRatings": 341370,
     "published": 1990
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438898196l/242006._SX50_.jpg",
-    "url": "/book/show/242006.Running_with_Scissors",
-    "title": "Running with Scissors",
-    "color": "hsla(25, 100%, 66%, 1)",
-    "rating": 3.73,
-    "numRatings": 374693,
-    "published": 2002
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335902168l/17780._SY75_.jpg",
@@ -1517,26 +1274,8 @@
     "title": "In the Heart of the Sea: The Tragedy of the Whaleship Essex",
     "color": "hsla(240, 100%, 1%, 1)",
     "rating": 4.1,
-    "numRatings": 99354,
+    "numRatings": 99364,
     "published": 2000
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630575238l/6346975._SY75_.jpg",
-    "url": "/book/show/6346975-moonwalking-with-einstein",
-    "title": "Moonwalking with Einstein: The Art and Science of Remembering Everything",
-    "color": "hsla(180, 100%, 99%, 1)",
-    "rating": 3.87,
-    "numRatings": 82350,
-    "published": 2011
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630470982l/16902._SY75_.jpg",
-    "url": "/book/show/16902.Walden",
-    "title": "Walden",
-    "color": "hsla(98, 30%, 36%, 1)",
-    "rating": 3.77,
-    "numRatings": 176215,
-    "published": 1854
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369092544l/7015403._SX50_.jpg",
@@ -1544,7 +1283,7 @@
     "title": "The Gifts of Imperfection",
     "color": "hsla(0, 100%, 0%, 1)",
     "rating": 4.2,
-    "numRatings": 140769,
+    "numRatings": 140806,
     "published": 2010
   },
   {
@@ -1553,7 +1292,7 @@
     "title": "Untamed",
     "color": "hsla(300, 100%, 99%, 1)",
     "rating": 4.03,
-    "numRatings": 252863,
+    "numRatings": 252962,
     "published": 2020
   },
   {
@@ -1562,17 +1301,8 @@
     "title": "Tiny Beautiful Things: Advice on Love and Life from Dear Sugar",
     "color": "hsla(10, 66%, 49%, 1)",
     "rating": 4.27,
-    "numRatings": 75000,
+    "numRatings": 75012,
     "published": 2012
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565912767l/30474._SY75_.jpg",
-    "url": "/book/show/30474.The_Communist_Manifesto",
-    "title": "The Communist Manifesto",
-    "color": "hsla(0, 0%, 0%, 1)",
-    "rating": 3.61,
-    "numRatings": 127198,
-    "published": 1848
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451400644l/26200563._SX50_.jpg",
@@ -1580,7 +1310,7 @@
     "title": "Hamilton: The Revolution",
     "color": "hsla(218, 53%, 16%, 1)",
     "rating": 4.43,
-    "numRatings": 50165,
+    "numRatings": 50168,
     "published": 2015
   },
   {
@@ -1589,7 +1319,7 @@
     "title": "Just Kids",
     "color": "hsla(0, 100%, 2%, 1)",
     "rating": 4.15,
-    "numRatings": 211031,
+    "numRatings": 211059,
     "published": 2010
   },
   {
@@ -1598,7 +1328,7 @@
     "title": "Talking as Fast as I Can: From Gilmore Girls to Gilmore Girls (and Everything in Between)",
     "color": "hsla(186, 26%, 85%, 1)",
     "rating": 3.93,
-    "numRatings": 109375,
+    "numRatings": 109388,
     "published": 2016
   },
   {
@@ -1607,7 +1337,7 @@
     "title": "The Hidden Life of Trees: What They Feel, How They Communicate – Discoveries from a Secret World",
     "color": "hsla(60, 53%, 93%, 1)",
     "rating": 4.04,
-    "numRatings": 50255,
+    "numRatings": 50271,
     "published": 2015
   },
   {
@@ -1616,26 +1346,8 @@
     "title": "The Selfish Gene",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 4.14,
-    "numRatings": 155072,
+    "numRatings": 155093,
     "published": 1976
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414608893l/2715._SY75_.jpg",
-    "url": "/book/show/2715.Salt",
-    "title": "Salt: A World History",
-    "color": "hsla(194, 25%, 10%, 1)",
-    "rating": 3.72,
-    "numRatings": 65938,
-    "published": 2002
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442151714l/18803640._SY75_.jpg",
-    "url": "/book/show/18803640-h-is-for-hawk",
-    "title": "H is for Hawk",
-    "color": "hsla(0, 100%, 0%, 1)",
-    "rating": 3.72,
-    "numRatings": 67842,
-    "published": 2014
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565810646l/43582376._SX50_.jpg",
@@ -1643,7 +1355,7 @@
     "title": "The Body: A Guide for Occupants",
     "color": "hsla(50, 100%, 99%, 1)",
     "rating": 4.3,
-    "numRatings": 54924,
+    "numRatings": 54946,
     "published": 2019
   },
   {
@@ -1652,17 +1364,8 @@
     "title": "The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz",
     "color": "hsla(187, 7%, 25%, 1)",
     "rating": 4.23,
-    "numRatings": 82510,
+    "numRatings": 82536,
     "published": 2020
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401287778l/14990._SX50_.jpg",
-    "url": "/book/show/14990.Spook",
-    "title": "Spook: Science Tackles the Afterlife",
-    "color": "hsla(0, 0%, 0%, 1)",
-    "rating": 3.59,
-    "numRatings": 37170,
-    "published": 2005
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1169961441l/43015._SY75_.jpg",
@@ -1670,35 +1373,8 @@
     "title": "A Long Way Gone: Memoirs of a Boy Soldier",
     "color": "hsla(34, 67%, 40%, 1)",
     "rating": 4.12,
-    "numRatings": 181278,
+    "numRatings": 181297,
     "published": 2007
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1255573980l/1713426._SY75_.jpg",
-    "url": "/book/show/1713426.Predictably_Irrational",
-    "title": "Predictably Irrational: The Hidden Forces That Shape Our Decisions",
-    "color": "hsla(32, 100%, 51%, 1)",
-    "rating": 4.11,
-    "numRatings": 112646,
-    "published": 2008
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320418824l/561909._SY75_.jpg",
-    "url": "/book/show/561909.The_Hiding_Place",
-    "title": "The Hiding Place: The Triumphant True Story of Corrie Ten Boom",
-    "color": "hsla(300, 100%, 99%, 1)",
-    "rating": 4.41,
-    "numRatings": 286357,
-    "published": 1971
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425611143l/22609485._SY75_.jpg",
-    "url": "/book/show/22609485-the-soul-of-an-octopus",
-    "title": "The Soul of an Octopus: A Surprising Exploration Into the Wonder of Consciousness",
-    "color": "hsla(56, 54%, 90%, 1)",
-    "rating": 3.88,
-    "numRatings": 34354,
-    "published": 2015
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564577305l/38820046._SY75_.jpg",
@@ -1706,8 +1382,26 @@
     "title": "21 Lessons for the 21st Century",
     "color": "hsla(60, 100%, 96%, 1)",
     "rating": 4.16,
-    "numRatings": 119769,
+    "numRatings": 119797,
     "published": 2018
+  },
+  {
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320418824l/561909._SY75_.jpg",
+    "url": "/book/show/561909.The_Hiding_Place",
+    "title": "The Hiding Place: The Triumphant True Story of Corrie Ten Boom",
+    "color": "hsla(300, 100%, 99%, 1)",
+    "rating": 4.41,
+    "numRatings": 286382,
+    "published": 1971
+  },
+  {
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1255573980l/1713426._SY75_.jpg",
+    "url": "/book/show/1713426.Predictably_Irrational",
+    "title": "Predictably Irrational: The Hidden Forces That Shape Our Decisions",
+    "color": "hsla(32, 100%, 51%, 1)",
+    "rating": 4.11,
+    "numRatings": 112661,
+    "published": 2008
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352340675l/88061._SY75_.jpg",
@@ -1715,7 +1409,7 @@
     "title": "Dreams from My Father: A Story of Race and Inheritance",
     "color": "hsla(39, 42%, 89%, 1)",
     "rating": 3.9,
-    "numRatings": 214401,
+    "numRatings": 214422,
     "published": 1995
   },
   {
@@ -1724,7 +1418,7 @@
     "title": "The Five: The Untold Lives of the Women Killed by Jack the Ripper",
     "color": "hsla(120, 100%, 1%, 1)",
     "rating": 4.09,
-    "numRatings": 40265,
+    "numRatings": 40279,
     "published": 2019
   },
   {
@@ -1733,7 +1427,7 @@
     "title": "Girl, Interrupted",
     "color": "hsla(300, 100%, 100%, 1)",
     "rating": 3.9,
-    "numRatings": 198070,
+    "numRatings": 198104,
     "published": 1993
   },
   {
@@ -1742,7 +1436,7 @@
     "title": "Dress Your Family in Corduroy and Denim",
     "color": "hsla(180, 100%, 99%, 1)",
     "rating": 4.07,
-    "numRatings": 267888,
+    "numRatings": 267903,
     "published": 2004
   },
   {
@@ -1751,7 +1445,7 @@
     "title": "Going Clear: Scientology, Hollywood, and the Prison of Belief",
     "color": "hsla(330, 4%, 10%, 1)",
     "rating": 4.02,
-    "numRatings": 41779,
+    "numRatings": 41784,
     "published": 2013
   },
   {
@@ -1760,7 +1454,7 @@
     "title": "On Tyranny: Twenty Lessons from the Twentieth Century",
     "color": "hsla(30, 30%, 88%, 1)",
     "rating": 4.18,
-    "numRatings": 51149,
+    "numRatings": 51163,
     "published": 2017
   },
   {
@@ -1769,7 +1463,7 @@
     "title": "Marley and Me: Life and Love With the World's Worst Dog",
     "color": "hsla(22, 11%, 56%, 1)",
     "rating": 4.12,
-    "numRatings": 461991,
+    "numRatings": 462010,
     "published": 2005
   },
   {
@@ -1778,7 +1472,7 @@
     "title": "Cosmos",
     "color": "hsla(0, 100%, 2%, 1)",
     "rating": 4.37,
-    "numRatings": 128529,
+    "numRatings": 128547,
     "published": 1980
   },
   {
@@ -1787,17 +1481,8 @@
     "title": "Team of Rivals: The Political Genius of Abraham Lincoln",
     "color": "hsla(0, 100%, 0%, 1)",
     "rating": 4.22,
-    "numRatings": 177447,
+    "numRatings": 177467,
     "published": 2005
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474560136l/30687200._SX50_.jpg",
-    "url": "/book/show/30687200-the-stranger-in-the-woods",
-    "title": "The Stranger in the Woods: The Extraordinary Story of the Last True Hermit",
-    "color": "hsla(133, 17%, 16%, 1)",
-    "rating": 3.86,
-    "numRatings": 63576,
-    "published": 2017
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545577007l/40538681._SY75_.jpg",
@@ -1805,17 +1490,8 @@
     "title": "Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster",
     "color": "hsla(54, 100%, 75%, 1)",
     "rating": 4.38,
-    "numRatings": 34025,
+    "numRatings": 34030,
     "published": 2019
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473397159l/2195464._SY75_.jpg",
-    "url": "/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running",
-    "title": "What I Talk About When I Talk About Running",
-    "color": "hsla(52, 100%, 77%, 1)",
-    "rating": 3.86,
-    "numRatings": 127223,
-    "published": 2007
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504936953l/35167685._SX50_.jpg",
@@ -1823,7 +1499,7 @@
     "title": "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 4.24,
-    "numRatings": 178845,
+    "numRatings": 178863,
     "published": 1985
   },
   {
@@ -1832,7 +1508,7 @@
     "title": "The Big Short: Inside the Doomsday Machine",
     "color": "hsla(200, 77%, 36%, 1)",
     "rating": 4.26,
-    "numRatings": 148237,
+    "numRatings": 148260,
     "published": 2010
   },
   {
@@ -1841,17 +1517,8 @@
     "title": "Collapse: How Societies Choose to Fail or Succeed",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 3.9,
-    "numRatings": 70101,
+    "numRatings": 70115,
     "published": 2005
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347698159l/4961048._SY75_.jpg",
-    "url": "/book/show/4961048-wishful-drinking",
-    "title": "Wishful Drinking",
-    "color": "hsla(0, 0%, 100%, 1)",
-    "rating": 3.78,
-    "numRatings": 75696,
-    "published": 2008
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1171644213l/110737._SY75_.jpg",
@@ -1859,26 +1526,8 @@
     "title": "Seabiscuit: An American Legend",
     "color": "hsla(0, 0%, 0%, 1)",
     "rating": 4.18,
-    "numRatings": 160529,
+    "numRatings": 160545,
     "published": 1999
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469410391l/29868610._SY75_.jpg",
-    "url": "/book/show/29868610-scrappy-little-nobody",
-    "title": "Scrappy Little Nobody",
-    "color": "hsla(213, 37%, 35%, 1)",
-    "rating": 3.85,
-    "numRatings": 88787,
-    "published": 2016
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463433373l/30045683._SX50_.jpg",
-    "url": "/book/show/30045683-the-little-book-of-hygge",
-    "title": "The Little Book of Hygge: The Danish Way to Live Well",
-    "color": "hsla(300, 100%, 99%, 1)",
-    "rating": 3.75,
-    "numRatings": 82433,
-    "published": 2016
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442933592l/7054123._SY75_.jpg",
@@ -1886,7 +1535,7 @@
     "title": "The Poisoner's Handbook: Murder and the Birth of Forensic Medicine in Jazz Age New York",
     "color": "hsla(0, 100%, 1%, 1)",
     "rating": 3.98,
-    "numRatings": 35054,
+    "numRatings": 35059,
     "published": 2010
   },
   {
@@ -1895,7 +1544,7 @@
     "title": "When You Are Engulfed in Flames",
     "color": "hsla(0, 0%, 22%, 1)",
     "rating": 4.04,
-    "numRatings": 200542,
+    "numRatings": 200560,
     "published": 2008
   },
   {
@@ -1903,8 +1552,8 @@
     "url": "/book/show/41021145-the-botany-of-desire",
     "title": "The Botany of Desire: A Plant's-Eye View of the World",
     "color": "hsla(60, 100%, 99%, 1)",
-    "rating": 4.05,
-    "numRatings": 52073,
+    "rating": 4.04,
+    "numRatings": 52076,
     "published": 2001
   },
   {
@@ -1913,26 +1562,8 @@
     "title": "In a Sunburned Country",
     "color": "hsla(180, 100%, 97%, 1)",
     "rating": 4.06,
-    "numRatings": 100319,
+    "numRatings": 100332,
     "published": 2000
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405909800l/10600242._SY75_.jpg",
-    "url": "/book/show/10600242-how-to-be-a-woman",
-    "title": "How to Be a Woman",
-    "color": "hsla(60, 1%, 53%, 1)",
-    "rating": 3.71,
-    "numRatings": 108078,
-    "published": 2011
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560679612l/42201100._SX50_.jpg",
-    "url": "/book/show/42201100-three-women",
-    "title": "Three Women",
-    "color": "hsla(0, 0%, 100%, 1)",
-    "rating": 3.7,
-    "numRatings": 103396,
-    "published": 2019
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493422076l/32191706._SY75_.jpg",
@@ -1940,7 +1571,7 @@
     "title": "The Color of Law: A Forgotten History of How Our Government Segregated America",
     "color": "hsla(60, 100%, 97%, 1)",
     "rating": 4.46,
-    "numRatings": 25354,
+    "numRatings": 25363,
     "published": 2017
   },
   {
@@ -1949,17 +1580,8 @@
     "title": "Meditations",
     "color": "hsla(206, 94%, 7%, 1)",
     "rating": 4.22,
-    "numRatings": 157140,
+    "numRatings": 157173,
     "published": 180
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550724373l/42771901._SY75_.jpg",
-    "url": "/book/show/42771901-how-to-do-nothing",
-    "title": "How to Do Nothing: Resisting the Attention Economy",
-    "color": "hsla(120, 100%, 2%, 1)",
-    "rating": 3.77,
-    "numRatings": 32053,
-    "published": 2019
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452452965l/27276428._SY75_.jpg",
@@ -1967,7 +1589,7 @@
     "title": "The Gene: An Intimate History",
     "color": "hsla(133, 29%, 94%, 1)",
     "rating": 4.32,
-    "numRatings": 39797,
+    "numRatings": 39810,
     "published": 2016
   },
   {
@@ -1976,7 +1598,7 @@
     "title": "Deep Work: Rules for Focused Success in a Distracted World",
     "color": "hsla(0, 100%, 1%, 1)",
     "rating": 4.17,
-    "numRatings": 104025,
+    "numRatings": 104068,
     "published": 2016
   },
   {
@@ -1985,7 +1607,7 @@
     "title": "The Stranger Beside Me: Ted Bundy: The Shocking Inside Story",
     "color": "hsla(0, 0%, 0%, 1)",
     "rating": 4.1,
-    "numRatings": 86939,
+    "numRatings": 86953,
     "published": 1980
   },
   {
@@ -1994,7 +1616,7 @@
     "title": "I'm Still Here: Black Dignity in a World Made for Whiteness",
     "color": "hsla(120, 100%, 1%, 1)",
     "rating": 4.38,
-    "numRatings": 59231,
+    "numRatings": 59244,
     "published": 2018
   },
   {
@@ -2003,7 +1625,7 @@
     "title": "We Were Eight Years in Power: An American Tragedy",
     "color": "hsla(356, 85%, 41%, 1)",
     "rating": 4.35,
-    "numRatings": 28423,
+    "numRatings": 28426,
     "published": 2017
   },
   {
@@ -2012,17 +1634,8 @@
     "title": "You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life",
     "color": "hsla(82, 73%, 97%, 1)",
     "rating": 3.93,
-    "numRatings": 177552,
+    "numRatings": 177599,
     "published": 2013
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442353674l/27333._SY75_.jpg",
-    "url": "/book/show/27333.Silent_Spring",
-    "title": "Silent Spring",
-    "color": "hsla(64, 56%, 48%, 1)",
-    "rating": 3.98,
-    "numRatings": 41082,
-    "published": 1962
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532010422l/40873920._SY75_.jpg",
@@ -2030,8 +1643,17 @@
     "title": "The Lost City of the Monkey God",
     "color": "hsla(0, 0%, 0%, 1)",
     "rating": 3.9,
-    "numRatings": 47870,
+    "numRatings": 47885,
     "published": 2017
+  },
+  {
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442353674l/27333._SY75_.jpg",
+    "url": "/book/show/27333.Silent_Spring",
+    "title": "Silent Spring",
+    "color": "hsla(64, 56%, 48%, 1)",
+    "rating": 3.98,
+    "numRatings": 41089,
+    "published": 1962
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1168407974l/32951._SY75_.jpg",
@@ -2039,7 +1661,7 @@
     "title": "Sister Outsider: Essays and Speeches",
     "color": "hsla(188, 100%, 31%, 1)",
     "rating": 4.49,
-    "numRatings": 28336,
+    "numRatings": 28344,
     "published": 1984
   },
   {
@@ -2048,7 +1670,7 @@
     "title": "You're Never Weird on the Internet (Almost)",
     "color": "hsla(104, 43%, 82%, 1)",
     "rating": 4.03,
-    "numRatings": 52220,
+    "numRatings": 52223,
     "published": 2015
   },
   {
@@ -2057,7 +1679,7 @@
     "title": "The Four Agreements: A Practical Guide to Personal Freedom",
     "color": "hsla(61, 46%, 45%, 1)",
     "rating": 4.16,
-    "numRatings": 256635,
+    "numRatings": 256701,
     "published": 1997
   },
   {
@@ -2066,7 +1688,7 @@
     "title": "Naked",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 4.07,
-    "numRatings": 255234,
+    "numRatings": 255253,
     "published": 1997
   },
   {
@@ -2075,7 +1697,7 @@
     "title": "Stay Sexy & Don’t Get Murdered: The Definitive How-To Guide",
     "color": "hsla(0, 0%, 0%, 1)",
     "rating": 4.09,
-    "numRatings": 59674,
+    "numRatings": 59679,
     "published": 2019
   },
   {
@@ -2084,7 +1706,7 @@
     "title": "How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence",
     "color": "hsla(163, 38%, 66%, 1)",
     "rating": 4.17,
-    "numRatings": 58478,
+    "numRatings": 58499,
     "published": 2018
   },
   {
@@ -2093,7 +1715,7 @@
     "title": "Slouching Towards Bethlehem",
     "color": "hsla(39, 100%, 95%, 1)",
     "rating": 4.17,
-    "numRatings": 44632,
+    "numRatings": 44643,
     "published": 1968
   },
   {
@@ -2102,17 +1724,8 @@
     "title": "The Demon-Haunted World: Science as a Candle in the Dark",
     "color": "hsla(300, 100%, 100%, 1)",
     "rating": 4.26,
-    "numRatings": 65439,
+    "numRatings": 65448,
     "published": 1996
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359704028l/15790837._SY75_.jpg",
-    "url": "/book/show/15790837-let-s-explore-diabetes-with-owls",
-    "title": "Let's Explore Diabetes with Owls",
-    "color": "hsla(0, 100%, 5%, 1)",
-    "rating": 3.82,
-    "numRatings": 133499,
-    "published": 2013
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308117804l/6402364._SY75_.jpg",
@@ -2120,26 +1733,8 @@
     "title": "SuperFreakonomics: Global Cooling, Patriotic Prostitutes And Why Suicide Bombers Should Buy Life Insurance",
     "color": "hsla(300, 100%, 100%, 1)",
     "rating": 3.99,
-    "numRatings": 127827,
+    "numRatings": 127832,
     "published": 2009
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441986417l/248787._SY75_.jpg",
-    "url": "/book/show/248787.The_World_Without_Us",
-    "title": "The World Without Us",
-    "color": "hsla(180, 100%, 99%, 1)",
-    "rating": 3.8,
-    "numRatings": 40604,
-    "published": 2007
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553635552l/44600621._SY75_.jpg",
-    "url": "/book/show/44600621-dear-girls",
-    "title": "Dear Girls: Intimate Tales, Untold Secrets, & Advice for Living Your Best Life",
-    "color": "hsla(180, 100%, 98%, 1)",
-    "rating": 3.87,
-    "numRatings": 70414,
-    "published": 2019
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327876995l/991197._SX50_.jpg",
@@ -2147,17 +1742,8 @@
     "title": "The Complete Persepolis (Persepolis, #1-4)",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 4.33,
-    "numRatings": 150968,
+    "numRatings": 150993,
     "published": 2003
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513038393l/35542451._SY75_.jpg",
-    "url": "/book/show/35542451-girl-wash-your-face",
-    "title": "Girl, Wash Your Face: Stop Believing the Lies about Who You Are So You Can Become Who You Were Meant to Be",
-    "color": "hsla(300, 100%, 99%, 1)",
-    "rating": 3.64,
-    "numRatings": 210639,
-    "published": 2018
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391329559l/139069._SY75_.jpg",
@@ -2165,17 +1751,8 @@
     "title": "Endurance: Shackleton's Incredible Voyage",
     "color": "hsla(60, 33%, 6%, 1)",
     "rating": 4.35,
-    "numRatings": 100875,
+    "numRatings": 100891,
     "published": 1959
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298417570l/22463._SY75_.jpg",
-    "url": "/book/show/22463.The_Origin_of_Species",
-    "title": "The Origin of Species",
-    "color": "hsla(38, 100%, 84%, 1)",
-    "rating": 3.98,
-    "numRatings": 108257,
-    "published": 1859
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478144278l/2203._SX50_.jpg",
@@ -2183,8 +1760,17 @@
     "title": "John Adams",
     "color": "hsla(353, 17%, 9%, 1)",
     "rating": 4.04,
-    "numRatings": 343118,
+    "numRatings": 343137,
     "published": 2001
+  },
+  {
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298417570l/22463._SY75_.jpg",
+    "url": "/book/show/22463.The_Origin_of_Species",
+    "title": "The Origin of Species",
+    "color": "hsla(38, 100%, 84%, 1)",
+    "rating": 3.98,
+    "numRatings": 108276,
+    "published": 1859
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287338794l/368916._SY75_.jpg",
@@ -2192,7 +1778,7 @@
     "title": "84, Charing Cross Road",
     "color": "hsla(32, 27%, 34%, 1)",
     "rating": 4.1,
-    "numRatings": 61530,
+    "numRatings": 61553,
     "published": 1970
   },
   {
@@ -2201,25 +1787,7 @@
     "title": "The Worst Hard Time: The Untold Story of Those Who Survived the Great American Dust Bowl",
     "color": "hsla(0, 0%, 0%, 1)",
     "rating": 4.02,
-    "numRatings": 50767,
-    "published": 2005
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344263875l/6516450._SY75_.jpg",
-    "url": "/book/show/6516450-what-the-dog-saw-and-other-adventures",
-    "title": "What the Dog Saw and Other Adventures",
-    "color": "hsla(0, 0%, 100%, 1)",
-    "rating": 3.84,
-    "numRatings": 95744,
-    "published": 2009
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440616283l/3110._SY75_.jpg",
-    "url": "/book/show/3110.Assassination_Vacation",
-    "title": "Assassination Vacation",
-    "color": "hsla(202, 22%, 90%, 1)",
-    "rating": 3.89,
-    "numRatings": 50258,
+    "numRatings": 50778,
     "published": 2005
   },
   {
@@ -2228,7 +1796,7 @@
     "title": "Maus: Un survivant raconte, tome 1: Mon père saigne l'histoire (Maus, #1)",
     "color": "hsla(180, 100%, 99%, 1)",
     "rating": 4.33,
-    "numRatings": 273227,
+    "numRatings": 273248,
     "published": 1986
   },
   {
@@ -2237,7 +1805,7 @@
     "title": "Grit: The Power of Passion and Perseverance",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 4.06,
-    "numRatings": 90007,
+    "numRatings": 90027,
     "published": 2016
   },
   {
@@ -2246,7 +1814,7 @@
     "title": "Hiroshima",
     "color": "hsla(17, 100%, 50%, 1)",
     "rating": 3.99,
-    "numRatings": 69031,
+    "numRatings": 69050,
     "published": 1946
   }
 ]

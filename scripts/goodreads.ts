@@ -1,87 +1,25 @@
-import {writeFileSync} from 'fs'
 import got from 'got'
 import {JSDOM} from 'jsdom'
-import {Book, BookDetails} from '../types'
-import {showColors} from 'dominant-colors'
-import envmate from 'envmate'
-import {str} from 'envalid'
-
-const env = envmate({
-  GOODREADS_COOKIE: str()
-})
+import {BookDetails} from '../types'
+import fiction from '../data/shelves/fiction.json'
+import nonfiction from '../data/shelves/nonfiction.json'
+import {writeFileSync} from 'fs'
 
 async function main() {
-  await downloadShelf('nonfiction')
-  await downloadShelf('fiction')
+  const books = [...fiction, ...nonfiction]
+
+  let booksWithDetails = []
+  let done = 0
+  for (const book of books) {
+    const details = await getBookDetails(book.url)
+    console.log(`${++done}/${books.length}: ${book.title}`)
+    booksWithDetails.push({...book, ...details})
+  }
+
+  writeFileSync('books.json', JSON.stringify(booksWithDetails, null, 2))
 }
 
 main()
-
-async function downloadShelf(shelf: string) {
-  console.log(`Downloading best books in ${shelf}..`)
-
-  let books = []
-
-  for (let page = 1; page <= 5; page++) {
-    books.push(...(await getBooks(shelf, page)))
-  }
-
-  writeFileSync(
-    `./data/shelves/${shelf}.json`,
-    JSON.stringify(books, null, '  ')
-  )
-  console.log(`${shelf}.json created`)
-}
-
-async function getBooks(shelf: string, page: number): Promise<Book[]> {
-  console.log(`On page ${page}...`)
-  const {body} = await got(
-    `https://www.goodreads.com/shelf/show/${shelf}?page=${page}`,
-    {
-      headers: {
-        cookie: env.GOODREADS_COOKIE
-      }
-    }
-  )
-  const document = new JSDOM(body).window.document
-
-  const bookElements = document.querySelectorAll('.leftContainer .elementList')
-  return await Promise.all(
-    Array.from(bookElements).map(async (bookElement) => {
-      try {
-        const image = bookElement.querySelector('a img').getAttribute('src')
-
-        const color: string = (await showColors(image, 1))[0]
-
-        const url = bookElement.querySelector('a').getAttribute('href')
-        const title = bookElement.querySelector('a img').getAttribute('alt')
-
-        const miniRatingElement = bookElement.querySelector(
-          '.smallText:not(.authorName)'
-        )
-
-        const [
-          avgRatingString,
-          numRatingString,
-          publishedString
-        ] = miniRatingElement.textContent.trim().split('—')
-
-        const rating = parseFloat(
-          avgRatingString.replace('avg rating ', '').trim()
-        )
-        const numRatings = parseInt(numRatingString.trim().replace(/,/g, ''))
-        const published = parseInt(
-          publishedString.trim().replace('published ', '')
-        )
-
-        return {image, url, title, color, rating, numRatings, published}
-      } catch (e) {
-        console.log(e)
-        console.log(bookElement.innerHTML)
-      }
-    })
-  )
-}
 
 async function getBookDetails(url: string): Promise<BookDetails> {
   const {body} = await got('https://goodreads.com/' + url)

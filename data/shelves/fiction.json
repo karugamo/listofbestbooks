@@ -5,7 +5,7 @@
     "title": "To Kill a Mockingbird",
     "color": "hsla(84, 28%, 63%, 1)",
     "rating": 4.27,
-    "numRatings": 4981673,
+    "numRatings": 4982208,
     "published": 1960
   },
   {
@@ -14,7 +14,7 @@
     "title": "1984",
     "color": "hsla(359, 76%, 51%, 1)",
     "rating": 4.19,
-    "numRatings": 3569497,
+    "numRatings": 3569903,
     "published": 1949
   },
   {
@@ -23,7 +23,7 @@
     "title": "The Great Gatsby",
     "color": "hsla(300, 100%, 100%, 1)",
     "rating": 3.93,
-    "numRatings": 4178839,
+    "numRatings": 4179254,
     "published": 1925
   },
   {
@@ -32,7 +32,7 @@
     "title": "Animal Farm",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 3.96,
-    "numRatings": 3074625,
+    "numRatings": 3074939,
     "published": 1945
   },
   {
@@ -41,17 +41,8 @@
     "title": "Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",
     "color": "hsla(25, 39%, 55%, 1)",
     "rating": 4.47,
-    "numRatings": 7942982,
+    "numRatings": 7943907,
     "published": 1997
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300l/5107._SY75_.jpg",
-    "url": "/book/show/5107.The_Catcher_in_the_Rye",
-    "title": "The Catcher in the Rye",
-    "color": "hsla(46, 59%, 90%, 1)",
-    "rating": 3.81,
-    "numRatings": 2973976,
-    "published": 1951
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722975l/2767052._SY75_.jpg",
@@ -59,17 +50,8 @@
     "title": "The Hunger Games (The Hunger Games, #1)",
     "color": "hsla(0, 0%, 0%, 1)",
     "rating": 4.32,
-    "numRatings": 6999799,
+    "numRatings": 7000470,
     "published": 2008
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579621267l/968._SY75_.jpg",
-    "url": "/book/show/968.The_Da_Vinci_Code",
-    "title": "The Da Vinci Code (Robert Langdon, #2)",
-    "color": "hsla(0, 100%, 37%, 1)",
-    "rating": 3.88,
-    "numRatings": 2083500,
-    "published": 2003
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578028274l/38447._SY75_.jpg",
@@ -77,7 +59,7 @@
     "title": "The Handmaid's Tale (The Handmaid's Tale, #1)",
     "color": "hsla(0, 100%, 1%, 1)",
     "rating": 4.12,
-    "numRatings": 1644993,
+    "numRatings": 1645194,
     "published": 1985
   },
   {
@@ -86,17 +68,8 @@
     "title": "The Kite Runner",
     "color": "hsla(0, 100%, 0%, 1)",
     "rating": 4.31,
-    "numRatings": 2645718,
+    "numRatings": 2645947,
     "published": 2003
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466865542l/18144590._SY75_.jpg",
-    "url": "/book/show/18144590-the-alchemist",
-    "title": "The Alchemist",
-    "color": "hsla(3, 69%, 40%, 1)",
-    "rating": 3.89,
-    "numRatings": 2376146,
-    "published": 1988
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399351l/1885._SY75_.jpg",
@@ -104,17 +77,8 @@
     "title": "Pride and Prejudice",
     "color": "hsla(0, 100%, 0%, 1)",
     "rating": 4.27,
-    "numRatings": 3371335,
+    "numRatings": 3371715,
     "published": 1813
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327869409l/7624._SY75_.jpg",
-    "url": "/book/show/7624.Lord_of_the_Flies",
-    "title": "Lord of the Flies",
-    "color": "hsla(177, 34%, 39%, 1)",
-    "rating": 3.69,
-    "numRatings": 2465864,
-    "published": 1954
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474169725l/15881._SY75_.jpg",
@@ -122,7 +86,7 @@
     "title": "Harry Potter and the Chamber of Secrets (Harry Potter, #2)",
     "color": "hsla(336, 56%, 42%, 1)",
     "rating": 4.43,
-    "numRatings": 3067079,
+    "numRatings": 3067429,
     "published": 1998
   },
   {
@@ -131,7 +95,7 @@
     "title": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
     "color": "hsla(0, 100%, 5%, 1)",
     "rating": 4.57,
-    "numRatings": 3196517,
+    "numRatings": 3196950,
     "published": 1999
   },
   {
@@ -140,7 +104,7 @@
     "title": "The Hobbit, or There and Back Again",
     "color": "hsla(152, 31%, 19%, 1)",
     "rating": 4.28,
-    "numRatings": 3189553,
+    "numRatings": 3189865,
     "published": 1937
   },
   {
@@ -149,7 +113,7 @@
     "title": "Harry Potter and the Goblet of Fire (Harry Potter, #4)",
     "color": "hsla(0, 7%, 11%, 1)",
     "rating": 4.56,
-    "numRatings": 2888748,
+    "numRatings": 2889019,
     "published": 2000
   },
   {
@@ -158,7 +122,7 @@
     "title": "Fahrenheit 451",
     "color": "hsla(0, 100%, 0%, 1)",
     "rating": 3.98,
-    "numRatings": 1898688,
+    "numRatings": 1898927,
     "published": 1953
   },
   {
@@ -167,7 +131,7 @@
     "title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
     "color": "hsla(33, 100%, 71%, 1)",
     "rating": 4.61,
-    "numRatings": 3094234,
+    "numRatings": 3094520,
     "published": 2007
   },
   {
@@ -176,7 +140,7 @@
     "title": "Harry Potter and the Half-Blood Prince (Harry Potter, #6)",
     "color": "hsla(60, 13%, 31%, 1)",
     "rating": 4.57,
-    "numRatings": 2698609,
+    "numRatings": 2698872,
     "published": 2005
   },
   {
@@ -185,7 +149,7 @@
     "title": "Brave New World",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 3.99,
-    "numRatings": 1577438,
+    "numRatings": 1577592,
     "published": 1932
   },
   {
@@ -194,7 +158,7 @@
     "title": "Harry Potter and the Order of the Phoenix (Harry Potter, #5)",
     "color": "hsla(180, 100%, 98%, 1)",
     "rating": 4.5,
-    "numRatings": 2783658,
+    "numRatings": 2783946,
     "published": 2003
   },
   {
@@ -203,7 +167,7 @@
     "title": "The Book Thief",
     "color": "hsla(60, 100%, 89%, 1)",
     "rating": 4.38,
-    "numRatings": 2053179,
+    "numRatings": 2053427,
     "published": 2005
   },
   {
@@ -212,7 +176,7 @@
     "title": "Catching Fire (The Hunger Games, #2)",
     "color": "hsla(356, 70%, 36%, 1)",
     "rating": 4.3,
-    "numRatings": 2814015,
+    "numRatings": 2814305,
     "published": 2009
   },
   {
@@ -221,7 +185,7 @@
     "title": "The Girl with the Dragon Tattoo (Millennium, #1)",
     "color": "hsla(60, 100%, 68%, 1)",
     "rating": 4.15,
-    "numRatings": 2820705,
+    "numRatings": 2820879,
     "published": 2005
   },
   {
@@ -230,26 +194,8 @@
     "title": "Life of Pi",
     "color": "hsla(200, 100%, 30%, 1)",
     "rating": 3.92,
-    "numRatings": 1436301,
+    "numRatings": 1436377,
     "published": 2001
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511302904l/890._SX50_.jpg",
-    "url": "/book/show/890.Of_Mice_and_Men",
-    "title": "Of Mice and Men",
-    "color": "hsla(38, 52%, 75%, 1)",
-    "rating": 3.88,
-    "numRatings": 2113310,
-    "published": 1937
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479863624l/1618._SY75_.jpg",
-    "url": "/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time",
-    "title": "The Curious Incident of the Dog in the Night-Time",
-    "color": "hsla(9, 79%, 51%, 1)",
-    "rating": 3.89,
-    "numRatings": 1299259,
-    "published": 2003
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722918l/7260188._SY75_.jpg",
@@ -257,7 +203,7 @@
     "title": "Mockingjay (The Hunger Games, #3)",
     "color": "hsla(218, 46%, 70%, 1)",
     "rating": 4.05,
-    "numRatings": 2601469,
+    "numRatings": 2601708,
     "published": 2010
   },
   {
@@ -266,7 +212,7 @@
     "title": "Slaughterhouse-Five",
     "color": "hsla(346, 96%, 52%, 1)",
     "rating": 4.08,
-    "numRatings": 1211489,
+    "numRatings": 1211549,
     "published": 1969
   },
   {
@@ -275,7 +221,7 @@
     "title": "The Help",
     "color": "hsla(36, 91%, 65%, 1)",
     "rating": 4.46,
-    "numRatings": 2350335,
+    "numRatings": 2350517,
     "published": 2009
   },
   {
@@ -284,7 +230,7 @@
     "title": "Gone Girl",
     "color": "hsla(0, 0%, 2%, 1)",
     "rating": 4.09,
-    "numRatings": 2564494,
+    "numRatings": 2564700,
     "published": 2012
   },
   {
@@ -293,7 +239,7 @@
     "title": "Angels & Demons (Robert Langdon, #1)",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 3.92,
-    "numRatings": 2868019,
+    "numRatings": 2868205,
     "published": 2000
   },
   {
@@ -302,7 +248,7 @@
     "title": "Jane Eyre",
     "color": "hsla(255, 100%, 1%, 1)",
     "rating": 4.13,
-    "numRatings": 1772791,
+    "numRatings": 1772950,
     "published": 1847
   },
   {
@@ -311,7 +257,7 @@
     "title": "The Fault in Our Stars",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 4.18,
-    "numRatings": 4020952,
+    "numRatings": 4021429,
     "published": 2012
   },
   {
@@ -320,7 +266,7 @@
     "title": "All the Light We Cannot See",
     "color": "hsla(203, 100%, 23%, 1)",
     "rating": 4.32,
-    "numRatings": 1196469,
+    "numRatings": 1196670,
     "published": 2014
   },
   {
@@ -329,7 +275,7 @@
     "title": "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
     "color": "hsla(180, 100%, 98%, 1)",
     "rating": 4.22,
-    "numRatings": 1577475,
+    "numRatings": 1577619,
     "published": 1979
   },
   {
@@ -338,7 +284,7 @@
     "title": "The Picture of Dorian Gray",
     "color": "hsla(33, 40%, 10%, 1)",
     "rating": 4.1,
-    "numRatings": 1108986,
+    "numRatings": 1109135,
     "published": 1890
   },
   {
@@ -347,7 +293,7 @@
     "title": "One Hundred Years of Solitude",
     "color": "hsla(58, 100%, 47%, 1)",
     "rating": 4.09,
-    "numRatings": 821143,
+    "numRatings": 821216,
     "published": 1967
   },
   {
@@ -356,7 +302,7 @@
     "title": "The Road",
     "color": "hsla(0, 0%, 0%, 1)",
     "rating": 3.97,
-    "numRatings": 777531,
+    "numRatings": 777628,
     "published": 2006
   },
   {
@@ -365,7 +311,7 @@
     "title": "Memoirs of a Geisha",
     "color": "hsla(120, 100%, 0%, 1)",
     "rating": 4.13,
-    "numRatings": 1814689,
+    "numRatings": 1814777,
     "published": 1997
   },
   {
@@ -374,7 +320,7 @@
     "title": "The Girl on the Train",
     "color": "hsla(0, 0%, 0%, 1)",
     "rating": 3.94,
-    "numRatings": 2375378,
+    "numRatings": 2375620,
     "published": 2015
   },
   {
@@ -383,7 +329,7 @@
     "title": "A Game of Thrones (A Song of Ice and Fire, #1)",
     "color": "hsla(40, 100%, 99%, 1)",
     "rating": 4.44,
-    "numRatings": 2157916,
+    "numRatings": 2158051,
     "published": 1996
   },
   {
@@ -392,26 +338,8 @@
     "title": "The Fellowship of the Ring (The Lord of the Rings, #1)",
     "color": "hsla(226, 38%, 32%, 1)",
     "rating": 4.37,
-    "numRatings": 2511000,
+    "numRatings": 2511106,
     "published": 1954
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631088473l/35031085._SY75_.jpg",
-    "url": "/book/show/35031085-frankenstein",
-    "title": "Frankenstein: The 1818 Text",
-    "color": "hsla(0, 0%, 0%, 1)",
-    "rating": 3.83,
-    "numRatings": 1278135,
-    "published": 1818
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457810586l/12232938._SY75_.jpg",
-    "url": "/book/show/12232938-the-lovely-bones",
-    "title": "The Lovely Bones",
-    "color": "hsla(180, 100%, 94%, 1)",
-    "rating": 3.83,
-    "numRatings": 2140459,
-    "published": 2002
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463157317l/168668._SY75_.jpg",
@@ -419,7 +347,7 @@
     "title": "Catch-22",
     "color": "hsla(180, 100%, 98%, 1)",
     "rating": 3.98,
-    "numRatings": 764605,
+    "numRatings": 764629,
     "published": 1961
   },
   {
@@ -428,7 +356,7 @@
     "title": "The Time Traveler's Wife",
     "color": "hsla(0, 100%, 1%, 1)",
     "rating": 3.98,
-    "numRatings": 1656999,
+    "numRatings": 1657079,
     "published": 2003
   },
   {
@@ -437,17 +365,8 @@
     "title": "Water for Elephants",
     "color": "hsla(120, 100%, 1%, 1)",
     "rating": 4.09,
-    "numRatings": 1465837,
+    "numRatings": 1465922,
     "published": 2006
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630501681l/6185._SY75_.jpg",
-    "url": "/book/show/6185.Wuthering_Heights",
-    "title": "Wuthering Heights",
-    "color": "hsla(0, 0%, 0%, 1)",
-    "rating": 3.87,
-    "numRatings": 1477798,
-    "published": 1847
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345958969l/128029._SY75_.jpg",
@@ -455,7 +374,7 @@
     "title": "A Thousand Splendid Suns",
     "color": "hsla(0, 100%, 1%, 1)",
     "rating": 4.39,
-    "numRatings": 1265528,
+    "numRatings": 1265645,
     "published": 2007
   },
   {
@@ -464,35 +383,8 @@
     "title": "The Giver (The Giver, #1)",
     "color": "hsla(0, 100%, 1%, 1)",
     "rating": 4.13,
-    "numRatings": 1992192,
+    "numRatings": 1992442,
     "published": 1993
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546096879l/2956._SX50_.jpg",
-    "url": "/book/show/2956.The_Adventures_of_Huckleberry_Finn",
-    "title": "The Adventures of Huckleberry Finn",
-    "color": "hsla(180, 15%, 16%, 1)",
-    "rating": 3.82,
-    "numRatings": 1196499,
-    "published": 1884
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630572642l/2165._SY75_.jpg",
-    "url": "/book/show/2165.The_Old_Man_and_the_Sea",
-    "title": "The Old Man and the Sea",
-    "color": "hsla(0, 100%, 0%, 1)",
-    "rating": 3.79,
-    "numRatings": 924408,
-    "published": 1952
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630572642l/2165._SY75_.jpg",
-    "url": "/book/show/2165.The_Old_Man_and_the_Sea",
-    "title": "The Old Man and the Sea",
-    "color": "hsla(0, 100%, 0%, 1)",
-    "rating": 3.79,
-    "numRatings": 924408,
-    "published": 1952
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582135294l/36809135._SY75_.jpg",
@@ -500,7 +392,7 @@
     "title": "Where the Crawdads Sing",
     "color": "hsla(19, 94%, 75%, 1)",
     "rating": 4.46,
-    "numRatings": 1429280,
+    "numRatings": 1429701,
     "published": 2018
   },
   {
@@ -509,7 +401,7 @@
     "title": "The Stranger",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 3.99,
-    "numRatings": 802822,
+    "numRatings": 802924,
     "published": 1942
   },
   {
@@ -518,7 +410,7 @@
     "title": "American Gods (American Gods, #1)",
     "color": "hsla(211, 100%, 20%, 1)",
     "rating": 4.1,
-    "numRatings": 822950,
+    "numRatings": 823011,
     "published": 2001
   },
   {
@@ -527,7 +419,7 @@
     "title": "The Martian",
     "color": "hsla(28, 71%, 56%, 1)",
     "rating": 4.4,
-    "numRatings": 916268,
+    "numRatings": 916364,
     "published": 2011
   },
   {
@@ -536,7 +428,7 @@
     "title": "Little Fires Everywhere",
     "color": "hsla(20, 37%, 8%, 1)",
     "rating": 4.09,
-    "numRatings": 890230,
+    "numRatings": 890352,
     "published": 2017
   },
   {
@@ -545,17 +437,8 @@
     "title": "Crime and Punishment",
     "color": "hsla(197, 20%, 18%, 1)",
     "rating": 4.23,
-    "numRatings": 712510,
+    "numRatings": 712566,
     "published": 1866
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377756377l/7604._SY75_.jpg",
-    "url": "/book/show/7604.Lolita",
-    "title": "Lolita",
-    "color": "hsla(220, 9%, 60%, 1)",
-    "rating": 3.88,
-    "numRatings": 717657,
-    "published": 1955
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562690475l/1934._SY75_.jpg",
@@ -563,7 +446,7 @@
     "title": "Little Women",
     "color": "hsla(29, 100%, 82%, 1)",
     "rating": 4.11,
-    "numRatings": 1839349,
+    "numRatings": 1839527,
     "published": 1869
   },
   {
@@ -572,7 +455,7 @@
     "title": "The Goldfinch",
     "color": "hsla(33, 14%, 73%, 1)",
     "rating": 3.92,
-    "numRatings": 792674,
+    "numRatings": 792721,
     "published": 2013
   },
   {
@@ -581,7 +464,7 @@
     "title": "The Little Prince",
     "color": "hsla(9, 23%, 84%, 1)",
     "rating": 4.31,
-    "numRatings": 1593564,
+    "numRatings": 1593778,
     "published": 1943
   },
   {
@@ -590,7 +473,7 @@
     "title": "A Man Called Ove",
     "color": "hsla(180, 100%, 97%, 1)",
     "rating": 4.35,
-    "numRatings": 692007,
+    "numRatings": 692119,
     "published": 2012
   },
   {
@@ -599,17 +482,8 @@
     "title": "Eleanor Oliphant Is Completely Fine",
     "color": "hsla(188, 62%, 59%, 1)",
     "rating": 4.26,
-    "numRatings": 895332,
+    "numRatings": 895489,
     "published": 2017
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353048590l/6334._SY75_.jpg",
-    "url": "/book/show/6334.Never_Let_Me_Go",
-    "title": "Never Let Me Go",
-    "color": "hsla(0, 100%, 2%, 1)",
-    "rating": 3.83,
-    "numRatings": 543980,
-    "published": 2005
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500930947l/9969571._SY75_.jpg",
@@ -617,7 +491,7 @@
     "title": "Ready Player One (Ready Player One, #1)",
     "color": "hsla(43, 100%, 65%, 1)",
     "rating": 4.24,
-    "numRatings": 979399,
+    "numRatings": 979512,
     "published": 2011
   },
   {
@@ -626,7 +500,7 @@
     "title": "Dune (Dune, #1)",
     "color": "hsla(30, 100%, 14%, 1)",
     "rating": 4.24,
-    "numRatings": 928422,
+    "numRatings": 928786,
     "published": 1965
   },
   {
@@ -635,7 +509,7 @@
     "title": "The Secret Life of Bees",
     "color": "hsla(213, 56%, 59%, 1)",
     "rating": 4.07,
-    "numRatings": 1178913,
+    "numRatings": 1178974,
     "published": 2001
   },
   {
@@ -644,7 +518,7 @@
     "title": "The Grapes of Wrath",
     "color": "hsla(60, 100%, 92%, 1)",
     "rating": 3.98,
-    "numRatings": 803227,
+    "numRatings": 803282,
     "published": 1939
   },
   {
@@ -653,7 +527,7 @@
     "title": "The Bell Jar",
     "color": "hsla(300, 100%, 99%, 1)",
     "rating": 4.02,
-    "numRatings": 672990,
+    "numRatings": 673084,
     "published": 1963
   },
   {
@@ -662,17 +536,8 @@
     "title": "The Perks of Being a Wallflower",
     "color": "hsla(66, 92%, 46%, 1)",
     "rating": 4.21,
-    "numRatings": 1403446,
+    "numRatings": 1403629,
     "published": 1999
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361039443l/41865._SY75_.jpg",
-    "url": "/book/show/41865.Twilight",
-    "title": "Twilight (The Twilight Saga, #1)",
-    "color": "hsla(0, 0%, 0%, 1)",
-    "rating": 3.62,
-    "numRatings": 5444944,
-    "published": 2005
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351778881l/5060378._SX50_.jpg",
@@ -680,7 +545,7 @@
     "title": "The Girl Who Played with Fire (Millennium, #2)",
     "color": "hsla(1, 77%, 55%, 1)",
     "rating": 4.24,
-    "numRatings": 859842,
+    "numRatings": 859880,
     "published": 2006
   },
   {
@@ -689,7 +554,7 @@
     "title": "The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)",
     "color": "hsla(0, 100%, 1%, 1)",
     "rating": 4.22,
-    "numRatings": 2336604,
+    "numRatings": 2336845,
     "published": 1950
   },
   {
@@ -698,7 +563,7 @@
     "title": "The Night Circus",
     "color": "hsla(300, 100%, 0%, 1)",
     "rating": 4.03,
-    "numRatings": 781941,
+    "numRatings": 782070,
     "published": 2011
   },
   {
@@ -707,7 +572,7 @@
     "title": "The Count of Monte Cristo",
     "color": "hsla(216, 8%, 12%, 1)",
     "rating": 4.26,
-    "numRatings": 801412,
+    "numRatings": 801451,
     "published": 1844
   },
   {
@@ -716,7 +581,7 @@
     "title": "Anna Karenina",
     "color": "hsla(164, 26%, 14%, 1)",
     "rating": 4.06,
-    "numRatings": 725067,
+    "numRatings": 725121,
     "published": 1877
   },
   {
@@ -725,17 +590,8 @@
     "title": "One Flew Over the Cuckoo's Nest",
     "color": "hsla(36, 27%, 34%, 1)",
     "rating": 4.19,
-    "numRatings": 672247,
+    "numRatings": 672294,
     "published": 1962
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344922523l/1953._SY75_.jpg",
-    "url": "/book/show/1953.A_Tale_of_Two_Cities",
-    "title": "A Tale of Two Cities",
-    "color": "hsla(195, 28%, 14%, 1)",
-    "rating": 3.85,
-    "numRatings": 857093,
-    "published": 1859
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437029776l/2187._SY75_.jpg",
@@ -743,7 +599,7 @@
     "title": "Middlesex",
     "color": "hsla(255, 5%, 16%, 1)",
     "rating": 4.01,
-    "numRatings": 606982,
+    "numRatings": 607011,
     "published": 2002
   },
   {
@@ -752,7 +608,7 @@
     "title": "The Midnight Library",
     "color": "hsla(222, 40%, 16%, 1)",
     "rating": 4.1,
-    "numRatings": 612446,
+    "numRatings": 613136,
     "published": 2020
   },
   {
@@ -761,7 +617,7 @@
     "title": "Dracula",
     "color": "hsla(0, 100%, 1%, 1)",
     "rating": 4,
-    "numRatings": 1036690,
+    "numRatings": 1036831,
     "published": 1897
   },
   {
@@ -770,7 +626,7 @@
     "title": "Room",
     "color": "hsla(0, 100%, 1%, 1)",
     "rating": 4.06,
-    "numRatings": 766269,
+    "numRatings": 766300,
     "published": 2010
   },
   {
@@ -779,7 +635,7 @@
     "title": "The Two Towers (The Lord of the Rings, #2)",
     "color": "hsla(327, 53%, 37%, 1)",
     "rating": 4.45,
-    "numRatings": 789682,
+    "numRatings": 789764,
     "published": 1954
   },
   {
@@ -788,7 +644,7 @@
     "title": "Divergent (Divergent, #1)",
     "color": "hsla(180, 100%, 97%, 1)",
     "rating": 4.17,
-    "numRatings": 3245143,
+    "numRatings": 3245515,
     "published": 2011
   },
   {
@@ -797,7 +653,7 @@
     "title": "The Poisonwood Bible",
     "color": "hsla(22, 83%, 53%, 1)",
     "rating": 4.07,
-    "numRatings": 687374,
+    "numRatings": 687392,
     "published": 1998
   },
   {
@@ -806,26 +662,8 @@
     "title": "Fight Club",
     "color": "hsla(0, 100%, 1%, 1)",
     "rating": 4.18,
-    "numRatings": 535605,
+    "numRatings": 535639,
     "published": 1996
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359061917l/485894._SY75_.jpg",
-    "url": "/book/show/485894.The_Metamorphosis",
-    "title": "The Metamorphosis",
-    "color": "hsla(0, 100%, 3%, 1)",
-    "rating": 3.83,
-    "numRatings": 739725,
-    "published": 1915
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631687432l/2623._SY75_.jpg",
-    "url": "/book/show/2623.Great_Expectations",
-    "title": "Great Expectations",
-    "color": "hsla(60, 100%, 98%, 1)",
-    "rating": 3.78,
-    "numRatings": 701968,
-    "published": 1860
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574117762l/838729._SY75_.jpg",
@@ -833,17 +671,8 @@
     "title": "The Return of the King (The Lord of the Rings, #3)",
     "color": "hsla(0, 100%, 4%, 1)",
     "rating": 4.54,
-    "numRatings": 739608,
+    "numRatings": 739663,
     "published": 1955
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404810944l/12296._SY75_.jpg",
-    "url": "/book/show/12296.The_Scarlet_Letter",
-    "title": "The Scarlet Letter",
-    "color": "hsla(0, 0%, 0%, 1)",
-    "rating": 3.42,
-    "numRatings": 755599,
-    "published": 1850
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549260060l/41817486._SX50_.jpg",
@@ -851,7 +680,7 @@
     "title": "A Clockwork Orange",
     "color": "hsla(24, 86%, 53%, 1)",
     "rating": 3.99,
-    "numRatings": 649687,
+    "numRatings": 649767,
     "published": 1962
   },
   {
@@ -860,7 +689,7 @@
     "title": "Sense and Sensibility",
     "color": "hsla(194, 35%, 7%, 1)",
     "rating": 4.08,
-    "numRatings": 1031502,
+    "numRatings": 1031575,
     "published": 1811
   },
   {
@@ -869,7 +698,7 @@
     "title": "The Ocean at the End of the Lane",
     "color": "hsla(240, 100%, 5%, 1)",
     "rating": 4,
-    "numRatings": 527956,
+    "numRatings": 528002,
     "published": 2013
   },
   {
@@ -878,7 +707,7 @@
     "title": "The Color Purple",
     "color": "hsla(338, 23%, 45%, 1)",
     "rating": 4.24,
-    "numRatings": 571348,
+    "numRatings": 571383,
     "published": 1982
   },
   {
@@ -887,7 +716,7 @@
     "title": "The Girl Who Kicked the Hornet's Nest (Millennium, #3)",
     "color": "hsla(216, 8%, 88%, 1)",
     "rating": 4.22,
-    "numRatings": 688906,
+    "numRatings": 688936,
     "published": 2007
   },
   {
@@ -896,7 +725,7 @@
     "title": "Siddhartha",
     "color": "hsla(244, 100%, 24%, 1)",
     "rating": 4.04,
-    "numRatings": 641820,
+    "numRatings": 641870,
     "published": 1922
   },
   {
@@ -905,17 +734,8 @@
     "title": "Circe",
     "color": "hsla(0, 100%, 2%, 1)",
     "rating": 4.26,
-    "numRatings": 536403,
+    "numRatings": 536638,
     "published": 2018
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392799983l/4900._SX50_.jpg",
-    "url": "/book/show/4900.Heart_of_Darkness",
-    "title": "Heart of Darkness",
-    "color": "hsla(0, 0%, 13%, 1)",
-    "rating": 3.44,
-    "numRatings": 455717,
-    "published": 1899
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567840212l/10572._SY75_.jpg",
@@ -923,7 +743,7 @@
     "title": "A Clash of Kings  (A Song of Ice and Fire, #2)",
     "color": "hsla(354, 100%, 27%, 1)",
     "rating": 4.4,
-    "numRatings": 836032,
+    "numRatings": 836067,
     "published": 1998
   },
   {
@@ -932,7 +752,7 @@
     "title": "The Secret History",
     "color": "hsla(41, 34%, 45%, 1)",
     "rating": 4.11,
-    "numRatings": 393398,
+    "numRatings": 393494,
     "published": 1992
   },
   {
@@ -941,7 +761,7 @@
     "title": "The Shadow of the Wind (The Cemetery of Forgotten Books, #1)",
     "color": "hsla(0, 100%, 2%, 1)",
     "rating": 4.27,
-    "numRatings": 528777,
+    "numRatings": 528847,
     "published": 2001
   },
   {
@@ -950,7 +770,7 @@
     "title": "Flowers for Algernon",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 4.16,
-    "numRatings": 532944,
+    "numRatings": 532983,
     "published": 1959
   },
   {
@@ -959,7 +779,7 @@
     "title": "Station Eleven",
     "color": "hsla(244, 31%, 11%, 1)",
     "rating": 4.05,
-    "numRatings": 368693,
+    "numRatings": 368739,
     "published": 2014
   },
   {
@@ -968,7 +788,7 @@
     "title": "East of Eden",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 4.38,
-    "numRatings": 461959,
+    "numRatings": 461996,
     "published": 1952
   },
   {
@@ -977,17 +797,8 @@
     "title": "Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",
     "color": "hsla(0, 0%, 0%, 1)",
     "rating": 4.23,
-    "numRatings": 609619,
+    "numRatings": 609701,
     "published": 1990
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391120695l/16299._SY75_.jpg",
-    "url": "/book/show/16299.And_Then_There_Were_None",
-    "title": "And Then There Were None",
-    "color": "hsla(218, 20%, 8%, 1)",
-    "rating": 4.26,
-    "numRatings": 977058,
-    "published": 1939
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507963312l/33574273._SX50_.jpg",
@@ -995,17 +806,17 @@
     "title": "A Wrinkle in Time (Time Quintet, #1)",
     "color": "hsla(84, 10%, 20%, 1)",
     "rating": 3.99,
-    "numRatings": 1108742,
+    "numRatings": 1108806,
     "published": 1962
   },
   {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327940656l/153747._SY75_.jpg",
-    "url": "/book/show/153747.Moby_Dick_or_the_Whale",
-    "title": "Moby-Dick or, the Whale",
-    "color": "hsla(188, 25%, 12%, 1)",
-    "rating": 3.52,
-    "numRatings": 503178,
-    "published": 1851
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391120695l/16299._SY75_.jpg",
+    "url": "/book/show/16299.And_Then_There_Were_None",
+    "title": "And Then There Were None",
+    "color": "hsla(218, 20%, 8%, 1)",
+    "rating": 4.26,
+    "numRatings": 977224,
+    "published": 1939
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373627931l/6969._SY75_.jpg",
@@ -1013,7 +824,7 @@
     "title": "Emma",
     "color": "hsla(0, 0%, 0%, 1)",
     "rating": 4.02,
-    "numRatings": 722162,
+    "numRatings": 722236,
     "published": 1815
   },
   {
@@ -1022,17 +833,8 @@
     "title": "Beloved",
     "color": "hsla(348, 100%, 40%, 1)",
     "rating": 3.9,
-    "numRatings": 357149,
+    "numRatings": 357182,
     "published": 1987
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630631323l/18135._SY75_.jpg",
-    "url": "/book/show/18135.Romeo_and_Juliet",
-    "title": "Romeo and Juliet",
-    "color": "hsla(120, 100%, 1%, 1)",
-    "rating": 3.75,
-    "numRatings": 2218119,
-    "published": 1597
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529026760l/39832183._SY75_.jpg",
@@ -1040,17 +842,8 @@
     "title": "The Guernsey Literary and Potato Peel Pie Society",
     "color": "hsla(60, 100%, 98%, 1)",
     "rating": 4.17,
-    "numRatings": 667796,
+    "numRatings": 667839,
     "published": 2008
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534070883l/6411961._SY75_.jpg",
-    "url": "/book/show/6411961-the-lost-symbol",
-    "title": "The Lost Symbol (Robert Langdon, #3)",
-    "color": "hsla(0, 100%, 1%, 1)",
-    "rating": 3.73,
-    "numRatings": 563807,
-    "published": 2009
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404811979l/24583._SY75_.jpg",
@@ -1058,7 +851,7 @@
     "title": "The Adventures of Tom Sawyer",
     "color": "hsla(0, 0%, 0%, 1)",
     "rating": 3.92,
-    "numRatings": 818055,
+    "numRatings": 818112,
     "published": 1876
   },
   {
@@ -1067,17 +860,8 @@
     "title": "The Unbearable Lightness of Being",
     "color": "hsla(149, 33%, 69%, 1)",
     "rating": 4.1,
-    "numRatings": 377899,
+    "numRatings": 377927,
     "published": 1984
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338822317l/13526165._SY75_.jpg",
-    "url": "/book/show/13526165-where-d-you-go-bernadette",
-    "title": "Where'd You Go, Bernadette",
-    "color": "hsla(0, 100%, 0%, 1)",
-    "rating": 3.88,
-    "numRatings": 518889,
-    "published": 2012
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536376800l/9712._SY75_.jpg",
@@ -1085,7 +869,7 @@
     "title": "Love in the Time of Cholera",
     "color": "hsla(110, 18%, 93%, 1)",
     "rating": 3.92,
-    "numRatings": 446060,
+    "numRatings": 446090,
     "published": 1985
   },
   {
@@ -1094,7 +878,7 @@
     "title": "A Christmas Carol",
     "color": "hsla(180, 3%, 13%, 1)",
     "rating": 4.06,
-    "numRatings": 666478,
+    "numRatings": 666521,
     "published": 1843
   },
   {
@@ -1103,17 +887,8 @@
     "title": "The Hate U Give (The Hate U Give, #1)",
     "color": "hsla(0, 0%, 100%, 1)",
     "rating": 4.5,
-    "numRatings": 642699,
+    "numRatings": 642848,
     "published": 2017
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631688766l/17347634._SX50_.jpg",
-    "url": "/book/show/17347634-me-before-you",
-    "title": "Me Before You (Me Before You, #1)",
-    "color": "hsla(351, 91%, 41%, 1)",
-    "rating": 4.25,
-    "numRatings": 1302476,
-    "published": 2012
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353277730l/11588._SY75_.jpg",
@@ -1121,8 +896,17 @@
     "title": "The Shining",
     "color": "hsla(180, 100%, 100%, 1)",
     "rating": 4.24,
-    "numRatings": 1239807,
+    "numRatings": 1239964,
     "published": 1977
+  },
+  {
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631688766l/17347634._SX50_.jpg",
+    "url": "/book/show/17347634-me-before-you",
+    "title": "Me Before You (Me Before You, #1)",
+    "color": "hsla(351, 91%, 41%, 1)",
+    "rating": 4.25,
+    "numRatings": 1302612,
+    "published": 2012
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327867150l/135479._SY75_.jpg",
@@ -1130,7 +914,7 @@
     "title": "Cat's Cradle",
     "color": "hsla(180, 100%, 99%, 1)",
     "rating": 4.16,
-    "numRatings": 357800,
+    "numRatings": 357817,
     "published": 1963
   },
   {
@@ -1139,17 +923,8 @@
     "title": "The Brothers Karamazov",
     "color": "hsla(3, 98%, 25%, 1)",
     "rating": 4.32,
-    "numRatings": 269792,
+    "numRatings": 269814,
     "published": 1879
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304978653l/7763._SY75_.jpg",
-    "url": "/book/show/7763.The_Joy_Luck_Club",
-    "title": "The Joy Luck Club",
-    "color": "hsla(60, 100%, 97%, 1)",
-    "rating": 3.94,
-    "numRatings": 627151,
-    "published": 1989
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356654499l/15796700._SX50_.jpg",
@@ -1157,17 +932,17 @@
     "title": "Americanah",
     "color": "hsla(35, 41%, 68%, 1)",
     "rating": 4.3,
-    "numRatings": 311105,
+    "numRatings": 311130,
     "published": 2013
   },
   {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571423190l/41057294._SY75_.jpg",
-    "url": "/book/show/41057294-normal-people",
-    "title": "Normal People",
-    "color": "hsla(212, 39%, 60%, 1)",
-    "rating": 3.85,
-    "numRatings": 630639,
-    "published": 2018
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304978653l/7763._SY75_.jpg",
+    "url": "/book/show/7763.The_Joy_Luck_Club",
+    "title": "The Joy Luck Club",
+    "color": "hsla(60, 100%, 97%, 1)",
+    "rating": 3.94,
+    "numRatings": 627179,
+    "published": 1989
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386605169l/17899948._SX50_.jpg",
@@ -1175,7 +950,7 @@
     "title": "Rebecca",
     "color": "hsla(0, 0%, 0%, 1)",
     "rating": 4.23,
-    "numRatings": 519864,
+    "numRatings": 519950,
     "published": 1938
   },
   {
@@ -1184,7 +959,7 @@
     "title": "The Golden Compass (His Dark Materials, #1)",
     "color": "hsla(204, 100%, 1%, 1)",
     "rating": 4,
-    "numRatings": 1377680,
+    "numRatings": 1377763,
     "published": 1995
   },
   {
@@ -1193,17 +968,8 @@
     "title": "My Sister's Keeper",
     "color": "hsla(197, 36%, 51%, 1)",
     "rating": 4.08,
-    "numRatings": 1111036,
+    "numRatings": 1111082,
     "published": 2004
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352082529l/37781._SY75_.jpg",
-    "url": "/book/show/37781.Things_Fall_Apart",
-    "title": "Things Fall Apart (The African Trilogy, #1)",
-    "color": "hsla(44, 100%, 50%, 1)",
-    "rating": 3.71,
-    "numRatings": 314558,
-    "published": 1958
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630460042l/11297._SY75_.jpg",
@@ -1211,7 +977,7 @@
     "title": "Norwegian Wood",
     "color": "hsla(54, 88%, 63%, 1)",
     "rating": 4.03,
-    "numRatings": 419022,
+    "numRatings": 419090,
     "published": 1987
   },
   {
@@ -1220,7 +986,7 @@
     "title": "Atonement",
     "color": "hsla(0, 0%, 0%, 1)",
     "rating": 3.91,
-    "numRatings": 471436,
+    "numRatings": 471466,
     "published": 2001
   },
   {
@@ -1229,17 +995,8 @@
     "title": "Kafka on the Shore",
     "color": "hsla(231, 50%, 50%, 1)",
     "rating": 4.13,
-    "numRatings": 356688,
+    "numRatings": 356725,
     "published": 2002
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405868167l/662._SY75_.jpg",
-    "url": "/book/show/662.Atlas_Shrugged",
-    "title": "Atlas Shrugged",
-    "color": "hsla(0, 100%, 1%, 1)",
-    "rating": 3.69,
-    "numRatings": 369166,
-    "published": 1957
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1213131305l/149267._SX50_.jpg",
@@ -1247,7 +1004,7 @@
     "title": "The Stand",
     "color": "hsla(240, 100%, 2%, 1)",
     "rating": 4.33,
-    "numRatings": 675807,
+    "numRatings": 675881,
     "published": 1978
   },
   {
@@ -1256,7 +1013,7 @@
     "title": "The Pillars of the Earth (Kingsbridge, #1)",
     "color": "hsla(20, 5%, 12%, 1)",
     "rating": 4.32,
-    "numRatings": 692147,
+    "numRatings": 692188,
     "published": 1989
   },
   {
@@ -1265,7 +1022,7 @@
     "title": "Cloud Atlas",
     "color": "hsla(38, 51%, 62%, 1)",
     "rating": 4,
-    "numRatings": 235534,
+    "numRatings": 235546,
     "published": 2004
   },
   {
@@ -1274,7 +1031,7 @@
     "title": "The Princess Bride",
     "color": "hsla(120, 100%, 0%, 1)",
     "rating": 4.25,
-    "numRatings": 831547,
+    "numRatings": 831591,
     "published": 1973
   },
   {
@@ -1283,17 +1040,8 @@
     "title": "Jurassic Park (Jurassic Park, #1)",
     "color": "hsla(300, 100%, 99%, 1)",
     "rating": 4.06,
-    "numRatings": 851574,
+    "numRatings": 851631,
     "published": 1990
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386795198l/18693763._SY75_.jpg",
-    "url": "/book/show/18693763-everything-i-never-told-you",
-    "title": "Everything I Never Told You",
-    "color": "hsla(60, 100%, 99%, 1)",
-    "rating": 3.86,
-    "numRatings": 411779,
-    "published": 2014
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411852091l/24280._SY75_.jpg",
@@ -1301,7 +1049,7 @@
     "title": "Les Misérables",
     "color": "hsla(38, 6%, 75%, 1)",
     "rating": 4.18,
-    "numRatings": 724125,
+    "numRatings": 724151,
     "published": 1862
   },
   {
@@ -1310,7 +1058,7 @@
     "title": "The Rosie Project (Don Tillman, #1)",
     "color": "hsla(357, 85%, 52%, 1)",
     "rating": 4.01,
-    "numRatings": 491769,
+    "numRatings": 491815,
     "published": 2013
   },
   {
@@ -1319,7 +1067,7 @@
     "title": "The Outsiders",
     "color": "hsla(324, 31%, 10%, 1)",
     "rating": 4.1,
-    "numRatings": 1054535,
+    "numRatings": 1054675,
     "published": 1967
   },
   {
@@ -1328,7 +1076,7 @@
     "title": "Extremely Loud & Incredibly Close",
     "color": "hsla(41, 58%, 91%, 1)",
     "rating": 3.96,
-    "numRatings": 403995,
+    "numRatings": 404012,
     "published": 2005
   },
   {
@@ -1337,17 +1085,8 @@
     "title": "Gone with the Wind",
     "color": "hsla(7, 69%, 61%, 1)",
     "rating": 4.3,
-    "numRatings": 1131823,
+    "numRatings": 1131871,
     "published": 1936
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390173285l/1381._SY75_.jpg",
-    "url": "/book/show/1381.The_Odyssey",
-    "title": "The Odyssey",
-    "color": "hsla(215, 15%, 16%, 1)",
-    "rating": 3.78,
-    "numRatings": 923679,
-    "published": -800
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327873635l/2998._SY75_.jpg",
@@ -1355,7 +1094,7 @@
     "title": "The Secret Garden",
     "color": "hsla(15, 42%, 40%, 1)",
     "rating": 4.13,
-    "numRatings": 989000,
+    "numRatings": 989110,
     "published": 1910
   },
   {
@@ -1364,7 +1103,7 @@
     "title": "A Gentleman in Moscow",
     "color": "hsla(300, 100%, 99%, 1)",
     "rating": 4.32,
-    "numRatings": 374984,
+    "numRatings": 375081,
     "published": 2016
   },
   {
@@ -1373,7 +1112,7 @@
     "title": "The Vanishing Half",
     "color": "hsla(242, 67%, 45%, 1)",
     "rating": 4.21,
-    "numRatings": 456126,
+    "numRatings": 456370,
     "published": 2020
   },
   {
@@ -1382,7 +1121,7 @@
     "title": "A Storm of Swords (A Song of Ice and Fire, #3)",
     "color": "hsla(180, 100%, 98%, 1)",
     "rating": 4.53,
-    "numRatings": 702551,
+    "numRatings": 702581,
     "published": 2000
   },
   {
@@ -1391,7 +1130,7 @@
     "title": "Big Little Lies",
     "color": "hsla(180, 100%, 97%, 1)",
     "rating": 4.28,
-    "numRatings": 838372,
+    "numRatings": 838481,
     "published": 2014
   },
   {
@@ -1400,26 +1139,8 @@
     "title": "The Remains of the Day",
     "color": "hsla(60, 100%, 95%, 1)",
     "rating": 4.13,
-    "numRatings": 230034,
+    "numRatings": 230067,
     "published": 1989
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509802323l/3876._SY75_.jpg",
-    "url": "/book/show/3876.The_Sun_Also_Rises",
-    "title": "The Sun Also Rises",
-    "color": "hsla(41, 49%, 56%, 1)",
-    "rating": 3.81,
-    "numRatings": 384893,
-    "published": 1926
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437733293l/37442._SY75_.jpg",
-    "url": "/book/show/37442.Wicked",
-    "title": "Wicked: The Life and Times of the Wicked Witch of the West (The Wicked Years, #1)",
-    "color": "hsla(31, 40%, 86%, 1)",
-    "rating": 3.54,
-    "numRatings": 586256,
-    "published": 1995
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405136931l/76620._SY75_.jpg",
@@ -1427,7 +1148,7 @@
     "title": "Watership Down (Watership Down, #1)",
     "color": "hsla(60, 100%, 75%, 1)",
     "rating": 4.06,
-    "numRatings": 454861,
+    "numRatings": 454884,
     "published": 1972
   },
   {
@@ -1436,7 +1157,7 @@
     "title": "Persuasion",
     "color": "hsla(315, 13%, 24%, 1)",
     "rating": 4.14,
-    "numRatings": 570384,
+    "numRatings": 570434,
     "published": 1817
   },
   {
@@ -1445,7 +1166,7 @@
     "title": "A Feast for Crows (A Song of Ice and Fire, #4)",
     "color": "hsla(3, 62%, 47%, 1)",
     "rating": 4.14,
-    "numRatings": 666140,
+    "numRatings": 666175,
     "published": 2005
   },
   {
@@ -1454,7 +1175,7 @@
     "title": "The Underground Railroad",
     "color": "hsla(0, 100%, 15%, 1)",
     "rating": 4.04,
-    "numRatings": 339223,
+    "numRatings": 339268,
     "published": 2016
   },
   {
@@ -1463,17 +1184,8 @@
     "title": "Anne of Green Gables (Anne of Green Gables, #1)",
     "color": "hsla(300, 100%, 100%, 1)",
     "rating": 4.26,
-    "numRatings": 815407,
+    "numRatings": 815494,
     "published": 1908
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391409748l/297673._SY75_.jpg",
-    "url": "/book/show/297673.The_Brief_Wondrous_Life_of_Oscar_Wao",
-    "title": "The Brief Wondrous Life of Oscar Wao",
-    "color": "hsla(300, 100%, 100%, 1)",
-    "rating": 3.89,
-    "numRatings": 244525,
-    "published": 2007
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529065012l/10964._SY75_.jpg",
@@ -1481,7 +1193,7 @@
     "title": "Outlander (Outlander, #1)",
     "color": "hsla(228, 100%, 28%, 1)",
     "rating": 4.23,
-    "numRatings": 908245,
+    "numRatings": 908319,
     "published": 1991
   },
   {
@@ -1490,26 +1202,8 @@
     "title": "11/22/63",
     "color": "hsla(0, 100%, 15%, 1)",
     "rating": 4.29,
-    "numRatings": 469569,
+    "numRatings": 469609,
     "published": 2011
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630592760l/49041._SX50_.jpg",
-    "url": "/book/show/49041.New_Moon",
-    "title": "New Moon (The Twilight Saga, #2)",
-    "color": "hsla(0, 0%, 0%, 1)",
-    "rating": 3.56,
-    "numRatings": 1615551,
-    "published": 2006
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413588576l/70401._SX50_.jpg",
-    "url": "/book/show/70401.On_the_Road",
-    "title": "On the Road",
-    "color": "hsla(120, 100%, 0%, 1)",
-    "rating": 3.62,
-    "numRatings": 372574,
-    "published": 1955
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598993363l/21853621._SY75_.jpg",
@@ -1517,7 +1211,7 @@
     "title": "The Nightingale",
     "color": "hsla(231, 76%, 3%, 1)",
     "rating": 4.57,
-    "numRatings": 856389,
+    "numRatings": 856547,
     "published": 2015
   },
   {
@@ -1526,7 +1220,7 @@
     "title": "Neverwhere (London Below, #1)",
     "color": "hsla(34, 15%, 45%, 1)",
     "rating": 4.16,
-    "numRatings": 467444,
+    "numRatings": 467480,
     "published": 1996
   },
   {
@@ -1535,17 +1229,8 @@
     "title": "Sharp Objects",
     "color": "hsla(0, 0%, 4%, 1)",
     "rating": 3.99,
-    "numRatings": 793247,
+    "numRatings": 793362,
     "published": 2006
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534070896l/17212231._SY75_.jpg",
-    "url": "/book/show/17212231-inferno",
-    "title": "Inferno (Robert Langdon, #4)",
-    "color": "hsla(34, 19%, 26%, 1)",
-    "rating": 3.86,
-    "numRatings": 510228,
-    "published": 2013
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327883484l/14891._SY75_.jpg",
@@ -1553,7 +1238,7 @@
     "title": "A Tree Grows in Brooklyn",
     "color": "hsla(60, 100%, 97%, 1)",
     "rating": 4.28,
-    "numRatings": 412545,
+    "numRatings": 412573,
     "published": 1943
   },
   {
@@ -1562,7 +1247,7 @@
     "title": "Looking for Alaska",
     "color": "hsla(330, 33%, 1%, 1)",
     "rating": 4,
-    "numRatings": 1260807,
+    "numRatings": 1261010,
     "published": 2005
   },
   {
@@ -1571,7 +1256,7 @@
     "title": "War and Peace",
     "color": "hsla(0, 100%, 7%, 1)",
     "rating": 4.13,
-    "numRatings": 287671,
+    "numRatings": 287692,
     "published": 1869
   },
   {
@@ -1580,7 +1265,7 @@
     "title": "The God of Small Things",
     "color": "hsla(0, 5%, 22%, 1)",
     "rating": 3.94,
-    "numRatings": 263558,
+    "numRatings": 263578,
     "published": 1997
   },
   {
@@ -1589,17 +1274,8 @@
     "title": "The Five People You Meet in Heaven",
     "color": "hsla(46, 89%, 93%, 1)",
     "rating": 3.95,
-    "numRatings": 621889,
+    "numRatings": 621932,
     "published": 2003
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361038355l/428263._SY75_.jpg",
-    "url": "/book/show/428263.Eclipse",
-    "title": "Eclipse (The Twilight Saga, #3)",
-    "color": "hsla(200, 23%, 3%, 1)",
-    "rating": 3.71,
-    "numRatings": 1559569,
-    "published": 2007
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327867963l/117833._SY75_.jpg",
@@ -1607,7 +1283,7 @@
     "title": "The Master and Margarita",
     "color": "hsla(255, 13%, 6%, 1)",
     "rating": 4.28,
-    "numRatings": 274499,
+    "numRatings": 274532,
     "published": 1967
   },
   {
@@ -1616,7 +1292,7 @@
     "title": "The Song of Achilles",
     "color": "hsla(0, 100%, 2%, 1)",
     "rating": 4.41,
-    "numRatings": 514124,
+    "numRatings": 514557,
     "published": 2011
   },
   {
@@ -1625,7 +1301,7 @@
     "title": "Charlotte's Web",
     "color": "hsla(180, 100%, 99%, 1)",
     "rating": 4.18,
-    "numRatings": 1555895,
+    "numRatings": 1556078,
     "published": 1952
   },
   {
@@ -1634,7 +1310,7 @@
     "title": "A Little Life",
     "color": "hsla(208, 15%, 56%, 1)",
     "rating": 4.3,
-    "numRatings": 291971,
+    "numRatings": 292063,
     "published": 2015
   },
   {
@@ -1643,7 +1319,7 @@
     "title": "World War Z: An Oral History of the Zombie War",
     "color": "hsla(0, 100%, 5%, 1)",
     "rating": 4.01,
-    "numRatings": 476747,
+    "numRatings": 476783,
     "published": 2006
   },
   {
@@ -1652,7 +1328,7 @@
     "title": "The Lightning Thief (Percy Jackson and the Olympians, #1)",
     "color": "hsla(161, 75%, 17%, 1)",
     "rating": 4.27,
-    "numRatings": 2274648,
+    "numRatings": 2275003,
     "published": 2005
   },
   {
@@ -1661,7 +1337,7 @@
     "title": "The Seven Husbands of Evelyn Hugo",
     "color": "hsla(120, 100%, 2%, 1)",
     "rating": 4.45,
-    "numRatings": 557695,
+    "numRatings": 558513,
     "published": 2017
   },
   {
@@ -1670,17 +1346,8 @@
     "title": "Miss Peregrine's Home for Peculiar Children (Miss Peregrine's Peculiar Children, #1)",
     "color": "hsla(330, 2%, 22%, 1)",
     "rating": 3.91,
-    "numRatings": 1087585,
+    "numRatings": 1087715,
     "published": 2011
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562554946l/310612._SY75_.jpg",
-    "url": "/book/show/310612.A_Confederacy_of_Dunces",
-    "title": "A Confederacy of Dunces",
-    "color": "hsla(359, 100%, 56%, 1)",
-    "rating": 3.88,
-    "numRatings": 246917,
-    "published": 1980
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415375471l/119073._SY75_.jpg",
@@ -1688,17 +1355,8 @@
     "title": "The Name of the Rose",
     "color": "hsla(356, 86%, 53%, 1)",
     "rating": 4.13,
-    "numRatings": 328175,
+    "numRatings": 328200,
     "published": 1980
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345089845l/13538873._SY75_.jpg",
-    "url": "/book/show/13538873-mr-penumbra-s-24-hour-bookstore",
-    "title": "Mr. Penumbra's 24-Hour Bookstore (Mr. Penumbra's 24-Hour Bookstore, #1)",
-    "color": "hsla(0, 0%, 100%, 1)",
-    "rating": 3.73,
-    "numRatings": 188278,
-    "published": 2012
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486131451l/853510._SY75_.jpg",
@@ -1706,7 +1364,7 @@
     "title": "Murder on the Orient Express (Hercule Poirot, #10)",
     "color": "hsla(51, 100%, 97%, 1)",
     "rating": 4.18,
-    "numRatings": 453487,
+    "numRatings": 453565,
     "published": 1934
   },
   {
@@ -1715,35 +1373,8 @@
     "title": "The Art of Racing in the Rain",
     "color": "hsla(220, 68%, 16%, 1)",
     "rating": 4.21,
-    "numRatings": 474406,
+    "numRatings": 474421,
     "published": 2008
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485248909l/295._SX50_.jpg",
-    "url": "/book/show/295.Treasure_Island",
-    "title": "Treasure Island",
-    "color": "hsla(0, 100%, 1%, 1)",
-    "rating": 3.84,
-    "numRatings": 432937,
-    "published": 1883
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361039438l/1162543._SY75_.jpg",
-    "url": "/book/show/1162543.Breaking_Dawn",
-    "title": "Breaking Dawn (The Twilight Saga, #4)",
-    "color": "hsla(250, 100%, 1%, 1)",
-    "rating": 3.71,
-    "numRatings": 1450194,
-    "published": 2008
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491163636l/2122._SY75_.jpg",
-    "url": "/book/show/2122.The_Fountainhead",
-    "title": "The Fountainhead",
-    "color": "hsla(180, 100%, 97%, 1)",
-    "rating": 3.87,
-    "numRatings": 307473,
-    "published": 1943
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327872639l/11275._SY75_.jpg",
@@ -1751,44 +1382,8 @@
     "title": "The Wind-Up Bird Chronicle",
     "color": "hsla(197, 42%, 75%, 1)",
     "rating": 4.15,
-    "numRatings": 238682,
+    "numRatings": 238698,
     "published": 1994
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364852559l/16085481._SY75_.jpg",
-    "url": "/book/show/16085481-crazy-rich-asians",
-    "title": "Crazy Rich Asians (Crazy Rich Asians, #1)",
-    "color": "hsla(44, 52%, 75%, 1)",
-    "rating": 3.87,
-    "numRatings": 391667,
-    "published": 2013
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509893913l/13497818._SY75_.jpg",
-    "url": "/book/show/13497818-the-casual-vacancy",
-    "title": "The Casual Vacancy",
-    "color": "hsla(0, 100%, 49%, 1)",
-    "rating": 3.31,
-    "numRatings": 319935,
-    "published": 2012
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546112331l/3836._SX50_.jpg",
-    "url": "/book/show/3836.Don_Quixote",
-    "title": "Don Quixote",
-    "color": "hsla(192, 59%, 9%, 1)",
-    "rating": 3.88,
-    "numRatings": 231219,
-    "published": 1605
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399438l/17690._SY75_.jpg",
-    "url": "/book/show/17690.The_Trial",
-    "title": "The Trial",
-    "color": "hsla(0, 0%, 100%, 1)",
-    "rating": 3.95,
-    "numRatings": 262098,
-    "published": 1925
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448108591l/27071490._SY75_.jpg",
@@ -1796,17 +1391,17 @@
     "title": "Homegoing",
     "color": "hsla(0, 100%, 2%, 1)",
     "rating": 4.46,
-    "numRatings": 234672,
+    "numRatings": 234728,
     "published": 2016
   },
   {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452291694l/1852._SY75_.jpg",
-    "url": "/book/show/1852.The_Call_of_the_Wild",
-    "title": "The Call of the Wild",
-    "color": "hsla(180, 100%, 99%, 1)",
-    "rating": 3.88,
-    "numRatings": 371298,
-    "published": 1903
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399438l/17690._SY75_.jpg",
+    "url": "/book/show/17690.The_Trial",
+    "title": "The Trial",
+    "color": "hsla(0, 0%, 100%, 1)",
+    "rating": 3.95,
+    "numRatings": 262118,
+    "published": 1925
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632027397l/355697._SY75_.jpg",
@@ -1814,7 +1409,7 @@
     "title": "All Quiet on the Western Front",
     "color": "hsla(300, 100%, 100%, 1)",
     "rating": 4,
-    "numRatings": 378891,
+    "numRatings": 378914,
     "published": 1929
   },
   {
@@ -1823,7 +1418,7 @@
     "title": "A Dance with Dragons (A Song of Ice and Fire, #5)",
     "color": "hsla(210, 4%, 67%, 1)",
     "rating": 4.31,
-    "numRatings": 593072,
+    "numRatings": 593105,
     "published": 2011
   },
   {
@@ -1832,7 +1427,7 @@
     "title": "The Name of the Wind (The Kingkiller Chronicle, #1)",
     "color": "hsla(240, 100%, 2%, 1)",
     "rating": 4.51,
-    "numRatings": 798348,
+    "numRatings": 798435,
     "published": 2007
   },
   {
@@ -1841,35 +1436,8 @@
     "title": "Insurgent (Divergent, #2)",
     "color": "hsla(60, 100%, 94%, 1)",
     "rating": 4,
-    "numRatings": 1286567,
+    "numRatings": 1286692,
     "published": 2012
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558869586l/227443._SY75_.jpg",
-    "url": "/book/show/227443.Bridget_Jones_s_Diary",
-    "title": "Bridget Jones's Diary (Bridget Jones, #1)",
-    "color": "hsla(0, 0%, 100%, 1)",
-    "rating": 3.79,
-    "numRatings": 913739,
-    "published": 1996
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1313714836l/10799._SY75_.jpg",
-    "url": "/book/show/10799.A_Farewell_to_Arms",
-    "title": "A Farewell to Arms",
-    "color": "hsla(30, 9%, 13%, 1)",
-    "rating": 3.81,
-    "numRatings": 281190,
-    "published": 1929
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470082995l/29056083._SY75_.jpg",
-    "url": "/book/show/29056083-harry-potter-and-the-cursed-child",
-    "title": "Harry Potter and the Cursed Child: Parts One and Two (Harry Potter, #8)",
-    "color": "hsla(0, 100%, 1%, 1)",
-    "rating": 3.56,
-    "numRatings": 807910,
-    "published": 2016
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334416842l/830502._SY75_.jpg",
@@ -1877,7 +1445,7 @@
     "title": "It",
     "color": "hsla(0, 100%, 0%, 1)",
     "rating": 4.24,
-    "numRatings": 897097,
+    "numRatings": 897227,
     "published": 1986
   },
   {
@@ -1886,17 +1454,8 @@
     "title": "The Amazing Adventures of Kavalier & Clay",
     "color": "hsla(210, 39%, 24%, 1)",
     "rating": 4.17,
-    "numRatings": 191608,
+    "numRatings": 191617,
     "published": 2000
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630487234l/24213._SX50_.jpg",
-    "url": "/book/show/24213.Alice_s_Adventures_in_Wonderland_Through_the_Looking_Glass",
-    "title": "Alice's Adventures in Wonderland / Through the Looking-Glass",
-    "color": "hsla(201, 72%, 59%, 1)",
-    "rating": 4.06,
-    "numRatings": 497591,
-    "published": 1871
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483103331l/10357575._SX50_.jpg",
@@ -1904,8 +1463,17 @@
     "title": "1Q84 (1Q84 #1-3)",
     "color": "hsla(300, 100%, 100%, 1)",
     "rating": 3.92,
-    "numRatings": 230125,
+    "numRatings": 230151,
     "published": 2009
+  },
+  {
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630487234l/24213._SX50_.jpg",
+    "url": "/book/show/24213.Alice_s_Adventures_in_Wonderland_Through_the_Looking_Glass",
+    "title": "Alice's Adventures in Wonderland / Through the Looking-Glass",
+    "color": "hsla(201, 72%, 59%, 1)",
+    "rating": 4.06,
+    "numRatings": 497645,
+    "published": 1871
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351051208l/1420._SY75_.jpg",
@@ -1913,7 +1481,7 @@
     "title": "Hamlet",
     "color": "hsla(0, 0%, 0%, 1)",
     "rating": 4.03,
-    "numRatings": 794804,
+    "numRatings": 794860,
     "published": 1601
   },
   {
@@ -1922,7 +1490,7 @@
     "title": "The Thirteenth Tale",
     "color": "hsla(0, 100%, 2%, 1)",
     "rating": 3.96,
-    "numRatings": 295494,
+    "numRatings": 295524,
     "published": 2006
   },
   {
@@ -1931,17 +1499,8 @@
     "title": "The Graveyard Book",
     "color": "hsla(120, 100%, 0%, 1)",
     "rating": 4.13,
-    "numRatings": 481154,
+    "numRatings": 481230,
     "published": 2008
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451442088l/24817626._SY75_.jpg",
-    "url": "/book/show/24817626-go-set-a-watchman",
-    "title": "Go Set a Watchman (To Kill a Mockingbird)",
-    "color": "hsla(222, 18%, 36%, 1)",
-    "rating": 3.32,
-    "numRatings": 248584,
-    "published": 2015
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1260470010l/4473._SY75_.jpg",
@@ -1949,7 +1508,7 @@
     "title": "A Prayer for Owen Meany",
     "color": "hsla(82, 42%, 73%, 1)",
     "rating": 4.23,
-    "numRatings": 296825,
+    "numRatings": 296839,
     "published": 1989
   },
   {
@@ -1958,26 +1517,8 @@
     "title": "Do Androids Dream of Electric Sheep?",
     "color": "hsla(300, 100%, 99%, 1)",
     "rating": 4.08,
-    "numRatings": 384737,
+    "numRatings": 384774,
     "published": 1968
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318116526l/51496._SY75_.jpg",
-    "url": "/book/show/51496.Dr_Jekyll_and_Mr_Hyde",
-    "title": "Dr. Jekyll and Mr. Hyde",
-    "color": "hsla(315, 17%, 5%, 1)",
-    "rating": 3.83,
-    "numRatings": 435607,
-    "published": 1886
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479336522l/14942._SY75_.jpg",
-    "url": "/book/show/14942.Mrs_Dalloway",
-    "title": "Mrs. Dalloway",
-    "color": "hsla(0, 0%, 7%, 1)",
-    "rating": 3.79,
-    "numRatings": 246645,
-    "published": 1925
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529845599l/34051011._SY75_.jpg",
@@ -1985,7 +1526,7 @@
     "title": "Pachinko",
     "color": "hsla(195, 24%, 55%, 1)",
     "rating": 4.28,
-    "numRatings": 278064,
+    "numRatings": 278139,
     "published": 2017
   },
   {
@@ -1994,7 +1535,7 @@
     "title": "Breakfast of Champions",
     "color": "hsla(103, 18%, 20%, 1)",
     "rating": 4.07,
-    "numRatings": 237442,
+    "numRatings": 237450,
     "published": 1973
   },
   {
@@ -2003,16 +1544,7 @@
     "title": "Holes (Holes, #1)",
     "color": "hsla(229, 100%, 29%, 1)",
     "rating": 3.98,
-    "numRatings": 1051079,
-    "published": 1998
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360095966l/11125._SY75_.jpg",
-    "url": "/book/show/11125.Digital_Fortress",
-    "title": "Digital Fortress",
-    "color": "hsla(180, 100%, 99%, 1)",
-    "rating": 3.68,
-    "numRatings": 593458,
+    "numRatings": 1051173,
     "published": 1998
   },
   {
@@ -2021,17 +1553,8 @@
     "title": "The Silent Patient",
     "color": "hsla(60, 100%, 96%, 1)",
     "rating": 4.12,
-    "numRatings": 804985,
+    "numRatings": 805375,
     "published": 2019
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551277487l/976._SY75_.jpg",
-    "url": "/book/show/976.Deception_Point",
-    "title": "Deception Point",
-    "color": "hsla(0, 0%, 0%, 1)",
-    "rating": 3.73,
-    "numRatings": 630177,
-    "published": 2001
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491493625l/33590210._SY75_.jpg",
@@ -2039,7 +1562,7 @@
     "title": "An American Marriage",
     "color": "hsla(189, 87%, 41%, 1)",
     "rating": 3.95,
-    "numRatings": 304289,
+    "numRatings": 304328,
     "published": 2018
   },
   {
@@ -2048,7 +1571,7 @@
     "title": "Dark Places",
     "color": "hsla(206, 46%, 14%, 1)",
     "rating": 3.93,
-    "numRatings": 645638,
+    "numRatings": 645722,
     "published": 2009
   },
   {
@@ -2057,7 +1580,7 @@
     "title": "The Gunslinger",
     "color": "hsla(0, 0%, 0%, 1)",
     "rating": 3.94,
-    "numRatings": 550139,
+    "numRatings": 550181,
     "published": 1982
   },
   {
@@ -2066,26 +1589,8 @@
     "title": "Oryx and Crake (MaddAddam, #1)",
     "color": "hsla(0, 100%, 1%, 1)",
     "rating": 4,
-    "numRatings": 240923,
+    "numRatings": 240951,
     "published": 2003
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631287935l/10441._SY75_.jpg",
-    "url": "/book/show/10441.The_Memory_Keeper_s_Daughter",
-    "title": "The Memory Keeper's Daughter",
-    "color": "hsla(240, 100%, 0%, 1)",
-    "rating": 3.68,
-    "numRatings": 580062,
-    "published": 2005
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341952742l/15745753._SX50_.jpg",
-    "url": "/book/show/15745753-eleanor-park",
-    "title": "Eleanor & Park",
-    "color": "hsla(42, 100%, 96%, 1)",
-    "rating": 4,
-    "numRatings": 977146,
-    "published": 2012
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327942880l/2493._SY75_.jpg",
@@ -2093,8 +1598,17 @@
     "title": "The Time Machine",
     "color": "hsla(240, 100%, 6%, 1)",
     "rating": 3.9,
-    "numRatings": 455393,
+    "numRatings": 455443,
     "published": 1895
+  },
+  {
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341952742l/15745753._SX50_.jpg",
+    "url": "/book/show/15745753-eleanor-park",
+    "title": "Eleanor & Park",
+    "color": "hsla(42, 100%, 96%, 1)",
+    "rating": 4,
+    "numRatings": 977263,
+    "published": 2012
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409112276l/343._SY75_.jpg",
@@ -2102,7 +1616,7 @@
     "title": "Perfume: The Story of a Murderer",
     "color": "hsla(21, 27%, 12%, 1)",
     "rating": 4.02,
-    "numRatings": 380124,
+    "numRatings": 380168,
     "published": 1985
   },
   {
@@ -2111,7 +1625,7 @@
     "title": "The Red Tent",
     "color": "hsla(9, 67%, 41%, 1)",
     "rating": 4.18,
-    "numRatings": 548228,
+    "numRatings": 548250,
     "published": 1997
   },
   {
@@ -2120,16 +1634,7 @@
     "title": "Daisy Jones & The Six",
     "color": "hsla(60, 100%, 99%, 1)",
     "rating": 4.22,
-    "numRatings": 428125,
-    "published": 2019
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557181911l/43923951._SY75_.jpg",
-    "url": "/book/show/43923951-such-a-fun-age",
-    "title": "Such a Fun Age",
-    "color": "hsla(120, 100%, 1%, 1)",
-    "rating": 3.85,
-    "numRatings": 343661,
+    "numRatings": 428385,
     "published": 2019
   },
   {
@@ -2138,7 +1643,7 @@
     "title": "Anxious People",
     "color": "hsla(39, 85%, 53%, 1)",
     "rating": 4.22,
-    "numRatings": 292438,
+    "numRatings": 292718,
     "published": 2019
   },
   {
@@ -2147,17 +1652,8 @@
     "title": "Infinite Jest",
     "color": "hsla(180, 100%, 97%, 1)",
     "rating": 4.26,
-    "numRatings": 80797,
+    "numRatings": 80806,
     "published": 1996
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556482805l/16981._SY75_.jpg",
-    "url": "/book/show/16981.Invisible_Man",
-    "title": "Invisible Man",
-    "color": "hsla(0, 100%, 0%, 1)",
-    "rating": 3.89,
-    "numRatings": 166327,
-    "published": 1952
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503362434l/11989._SY75_.jpg",
@@ -2165,7 +1661,7 @@
     "title": "The Plague",
     "color": "hsla(8, 21%, 47%, 1)",
     "rating": 4.01,
-    "numRatings": 200236,
+    "numRatings": 200261,
     "published": 1947
   },
   {
@@ -2174,7 +1670,7 @@
     "title": "The Great Alone",
     "color": "hsla(0, 100%, 1%, 1)",
     "rating": 4.35,
-    "numRatings": 480890,
+    "numRatings": 480996,
     "published": 2018
   },
   {
@@ -2183,17 +1679,8 @@
     "title": "Bel Canto",
     "color": "hsla(180, 100%, 98%, 1)",
     "rating": 3.92,
-    "numRatings": 256649,
+    "numRatings": 256670,
     "published": 2001
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540217136l/16160797._SY75_.jpg",
-    "url": "/book/show/16160797-the-cuckoo-s-calling",
-    "title": "The Cuckoo's Calling (Cormoran Strike, #1)",
-    "color": "hsla(180, 100%, 98%, 1)",
-    "rating": 3.87,
-    "numRatings": 525608,
-    "published": 2013
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492591524l/46170._SY75_.jpg",
@@ -2201,7 +1688,7 @@
     "title": "For Whom the Bell Tolls",
     "color": "hsla(45, 100%, 99%, 1)",
     "rating": 3.97,
-    "numRatings": 262665,
+    "numRatings": 262682,
     "published": 1940
   },
   {
@@ -2210,7 +1697,7 @@
     "title": "The Magician's Nephew (Chronicles of Narnia, #6)",
     "color": "hsla(120, 100%, 0%, 1)",
     "rating": 4.03,
-    "numRatings": 456948,
+    "numRatings": 457021,
     "published": 1955
   },
   {
@@ -2219,7 +1706,7 @@
     "title": "The Godfather (The Godfather, #1)",
     "color": "hsla(358, 81%, 21%, 1)",
     "rating": 4.35,
-    "numRatings": 368242,
+    "numRatings": 368260,
     "published": 1969
   },
   {
@@ -2228,17 +1715,8 @@
     "title": "The Testaments (The Handmaid's Tale, #2)",
     "color": "hsla(237, 76%, 18%, 1)",
     "rating": 4.2,
-    "numRatings": 270262,
+    "numRatings": 270312,
     "published": 2019
-  },
-  {
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388208495l/11337._SX50_.jpg",
-    "url": "/book/show/11337.The_Bluest_Eye",
-    "title": "The Bluest Eye",
-    "color": "hsla(306, 15%, 72%, 1)",
-    "rating": 4.08,
-    "numRatings": 195956,
-    "published": 1970
   },
   {
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459795224l/8852._SY75_.jpg",
@@ -2246,7 +1724,16 @@
     "title": "Macbeth",
     "color": "hsla(240, 100%, 5%, 1)",
     "rating": 3.9,
-    "numRatings": 739085,
+    "numRatings": 739157,
     "published": 1606
+  },
+  {
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388208495l/11337._SX50_.jpg",
+    "url": "/book/show/11337.The_Bluest_Eye",
+    "title": "The Bluest Eye",
+    "color": "hsla(306, 15%, 72%, 1)",
+    "rating": 4.08,
+    "numRatings": 195978,
+    "published": 1970
   }
 ]

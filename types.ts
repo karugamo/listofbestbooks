@@ -3,6 +3,9 @@ export type Book = {
   url: string
   title: string
   color: string
+  rating: number
+  numRatings: number
+  published: number
 } & BookDetails
 
 export type BookDetails = {
