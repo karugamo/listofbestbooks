@@ -4,9 +4,10 @@ import {BookDetails} from '../types'
 import fiction from '../data/shelves/fiction.json'
 import nonfiction from '../data/shelves/nonfiction.json'
 import {writeFileSync} from 'fs'
+import _ from 'lodash'
 
 async function main() {
-  const books = [...fiction, ...nonfiction]
+  const books = _.uniqBy([...fiction, ...nonfiction], 'url')
 
   let booksWithDetails = []
   let done = 0

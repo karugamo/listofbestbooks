@@ -22,7 +22,7 @@ export default function App() {
       </OptionsBar>
       <BooksContainer>
         {books.map((book) => (
-          <BookThumbnail key={book.image} {...book} />
+          <BookThumbnail key={book.url} {...book} />
         ))}
       </BooksContainer>
       <About />
