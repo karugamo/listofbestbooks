@@ -2,37 +2,28 @@ import React, {useState} from 'react'
 import styled from 'styled-components'
 import {Book} from '../types'
 import {take} from 'lodash'
+import Cover from './Cover'
 
 export default function BookThumbnail({
-  image,
-  title,
-  color,
-  isbn10,
-  genres
-}: Book) {
+  book,
+  onClick
+}: {
+  book: Book
+  onClick: (book: Book) => void
+}) {
+  const {image, title, color, genres} = book
   const [hovering, setHovering] = useState<boolean>(false)
 
-  const src = image
-    .replace('._SY75_', '')
-    .replace('._SX50_', '')
-    .replace('SY75_', '')
-  const href = isbn10
-    ? `https://www.amazon.com/gp/product/${isbn10}?tag=karugamo-20`
-    : `https://www.amazon.de/s?k=${encodeURI(
-        title
-      )}&i=stripbooks&tag=karugamo-20`
   return (
     <LinkContainer
       title={title}
-      target="_blank"
-      rel="noreferrer"
-      href={href}
+      onClick={() => onClick(book)}
       backgroundColor={color}
       onMouseEnter={() => setHovering(true)}
       onMouseLeave={() => setHovering(false)}
     >
       <Title shouldShow={hovering}>{title}</Title>
-      <Cover src={src} alt={title} />
+      <Cover book={book} />
       <Info shouldShow={hovering}>
         {take(genres, 3).map((genre, index) => (
           <GenreTag key={index}>{genre}</GenreTag>
@@ -42,7 +33,7 @@ export default function BookThumbnail({
   )
 }
 
-const LinkContainer = styled.a<{
+const LinkContainer = styled.div<{
   backgroundColor: string
 }>`
   align-self: stretch;
@@ -113,9 +104,4 @@ const GenreTag = styled.div`
   margin-right: 8px;
   margin-bottom: 8px;
   padding: 4px 8px;
-`
-
-const Cover = styled.img.attrs({width: 300, loading: 'lazy'})`
-  width: 300px;
-  border-radius: 2px 8px 8px 2px;
 `

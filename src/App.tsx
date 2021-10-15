@@ -6,10 +6,12 @@ import {Book} from '../types'
 import BookThumbnail from './BookThumbnail'
 import {About} from '@karugamo/components'
 import FilterTags, {Filter} from './FilterTags'
+import BookModal from './BookModal'
 
 export default function App() {
   const [books, setBooks] = useState<Book[]>(allBooks)
   const [activeFilters, setActiveFilters] = useState<Filter[]>([])
+  const [currentBook, setCurrentBook] = useState<Book | null>(null)
 
   useFilterBooks()
 
@@ -22,10 +24,13 @@ export default function App() {
       </OptionsBar>
       <BooksContainer>
         {books.map((book) => (
-          <BookThumbnail key={book.url} {...book} />
+          <BookThumbnail key={book.url} onClick={setCurrentBook} book={book} />
         ))}
       </BooksContainer>
       <About />
+      {currentBook && (
+        <BookModal book={currentBook} onClose={() => setCurrentBook(null)} />
+      )}
     </Main>
   )
 

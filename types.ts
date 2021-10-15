@@ -11,4 +11,6 @@ export type Book = {
 export type BookDetails = {
   isbn10?: string
   genres?: string[]
+  description?: string
+  author?: string
 }

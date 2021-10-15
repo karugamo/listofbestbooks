@@ -12,8 +12,9 @@ async function main() {
   let booksWithDetails = []
   let done = 0
   for (const book of books) {
-    const details = await getBookDetails(book.url)
     console.log(`${++done}/${books.length}: ${book.title}`)
+    const details = await getBookDetails(book.url)
+    console.log(details)
     booksWithDetails.push({...book, ...details})
   }
 
@@ -26,9 +27,17 @@ async function getBookDetails(url: string): Promise<BookDetails> {
   const {body} = await got('https://goodreads.com/' + url)
   const document = new JSDOM(body).window.document
 
-  return {
-    isbn10: getISBN(),
-    genres: getGenres()
+  try {
+    return {
+      isbn10: getISBN(),
+      genres: getGenres(),
+      description: getDescription(),
+      author: getAuthor()
+    }
+  } catch (e) {
+    console.log('Failed to get ', url)
+    console.error(e)
+    return {}
   }
 
   function getISBN(): string {
@@ -46,4 +55,25 @@ async function getBookDetails(url: string): Promise<BookDetails> {
 
     return genreElements.map((it) => it.textContent.trim())
   }
+
+  function getDescription() {
+    const descriptionHtml = document.querySelectorAll('#description span')[1]
+      .innerHTML
+    return stripHtml(descriptionHtml.replace(/<br>/g, '\n'))
+  }
+
+  function getAuthor() {
+    return document.querySelector('.authorName').textContent
+  }
+}
+
+function stripHtml(html: string) {
+  return html
+    .replace(/<[^>]*>/g, '')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
 }
