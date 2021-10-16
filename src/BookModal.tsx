@@ -31,6 +31,7 @@ export default function BookModal({book, onClose}: {book: Book; onClose: any}) {
             </Link>
           </Links>
         </BookInfo>
+        <Close onClick={onClose}>╳</Close>
       </ModalContent>
     </Modal>
   )
@@ -47,6 +48,16 @@ function getAmazonLink({isbn10, title}: Book) {
 const StyledCover = styled(Cover)`
   @media (max-width: 768px) {
     display: none;
+  }
+`
+
+const Close = styled.div`
+  font-size: 40px;
+  margin-top: -8px;
+  cursor: pointer;
+  height: 55px;
+  @media (max-width: 768px) {
+    align-self: flex-end;
   }
 `
 
@@ -72,6 +83,10 @@ const Link = styled.a`
 const ModalContent = styled.div`
   display: flex;
   gap: 32px;
+  @media (max-width: 768px) {
+    flex-direction: column-reverse;
+    gap: 0;
+  }
   color: #1a191d;
   margin: 24px 32px;
 `
