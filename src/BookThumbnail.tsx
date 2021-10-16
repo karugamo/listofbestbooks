@@ -11,7 +11,7 @@ export default function BookThumbnail({
   book: Book
   onClick: (book: Book) => void
 }) {
-  const {image, title, color, genres} = book
+  const {title, color, genres} = book
   const [hovering, setHovering] = useState<boolean>(false)
 
   return (
@@ -48,17 +48,11 @@ const LinkContainer = styled.div<{
   margin-left: 8px;
   margin-right: 8px;
 
-  @media (max-width: 444px) {
-    width: 100%;
-  }
+  transition: transform 0.1s ease-in-out;
 
-  @media (min-width: 520px) {
-    transition: transform 0.1s ease-in-out;
-
-    :hover {
-      transform: scale(1.1);
-      z-index: 10;
-    }
+  :hover {
+    transform: scale(1.1);
+    z-index: 10;
   }
 `
 const Title = styled.h2<{
@@ -67,7 +61,7 @@ const Title = styled.h2<{
   position: absolute;
   top: 0;
   left: 0;
-  width: 268;
+  width: 268px;
   margin: 0;
   padding: 16px;
   font-size: 20px;
@@ -84,7 +78,7 @@ const Info = styled.div<{
   position: absolute;
   bottom: 0;
   left: 0;
-  width: 268;
+  width: 268px;
   margin: 0;
   padding: 16px;
   font-size: 16px;
