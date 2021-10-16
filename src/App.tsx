@@ -7,11 +7,13 @@ import BookThumbnail from './BookThumbnail'
 import {About} from '@karugamo/components'
 import FilterTags, {Filter} from './FilterTags'
 import BookModal from './BookModal'
+import Modal from './Modal'
 
 export default function App() {
   const [books, setBooks] = useState<Book[]>(allBooks)
   const [activeFilters, setActiveFilters] = useState<Filter[]>([])
   const [currentBook, setCurrentBook] = useState<Book | null>(null)
+  const [filterModalOpen, setFilterModalOpen] = useState<boolean>(false)
 
   useFilterBooks()
 
@@ -19,8 +21,18 @@ export default function App() {
     <Main>
       <Headline>📚 browse good books 📚</Headline>
       <OptionsBar>
-        <FilterTags onToggle={onToggleFilter} activeFilters={activeFilters} />
+        <DesktopOnly>
+          <FilterTags onToggle={onToggleFilter} activeFilters={activeFilters} />
+        </DesktopOnly>
         <Button onClick={shuffleBooks}>Shuffle</Button>
+        <MobileFilterButton onClick={() => setFilterModalOpen(true)}>
+          Filter
+          {activeFilters.length > 0 && (
+            <ActiveFiltersText>
+              {`(${activeFilters.length} active)`}
+            </ActiveFiltersText>
+          )}
+        </MobileFilterButton>
       </OptionsBar>
       <BooksContainer>
         {books.map((book) => (
@@ -30,6 +42,15 @@ export default function App() {
       <About />
       {currentBook && (
         <BookModal book={currentBook} onClose={() => setCurrentBook(null)} />
+      )}
+      {filterModalOpen && (
+        <Modal
+          onClose={() => setFilterModalOpen(false)}
+          isOpen={filterModalOpen}
+          dark
+        >
+          <FilterTags onToggle={onToggleFilter} activeFilters={activeFilters} />
+        </Modal>
       )}
     </Main>
   )
@@ -74,6 +95,7 @@ const BooksContainer = styled.div`
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  max-width: 1380px;
 `
 
 const Button = styled.button`
@@ -100,14 +122,35 @@ const OptionsBar = styled.section`
   justify-content: space-between;
   align-items: flex-start;
   max-width: 1380px;
-  width: 100%;
+  margin-left: 16px;
+  margin-right: 16px;
 
   @media (max-width: 1200px) {
     justify-content: center;
-    margin-bottom: 10px;
+    flex-direction: column;
+    align-items: center;
   }
 `
 
 const Headline = styled.h2`
   text-align: center;
+`
+
+const MobileFilterButton = styled(Button)`
+  display: none;
+  @media (max-width: 1200px) {
+    display: flex;
+  }
+`
+
+const DesktopOnly = styled.div`
+  @media (max-width: 1200px) {
+    display: none;
+  }
+`
+
+const ActiveFiltersText = styled.span`
+  font-weight: 300;
+  color: #aaa;
+  margin-left: 8px;
 `

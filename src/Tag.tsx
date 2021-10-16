@@ -16,6 +16,10 @@ const Tag = styled.div<TagProps>`
   cursor: pointer;
   user-select: none;
   font-size: 20px;
+
+  @media (max-width: 1200px) {
+    flex-basis: 80%;
+  }
 `
 
 export default Tag

@@ -80,7 +80,7 @@ const Container = styled.section`
   max-width: 1100px;
 
   @media (max-width: 1200px) {
-    display: none;
+    justify-content: center;
   }
 `
 
