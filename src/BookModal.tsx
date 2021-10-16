@@ -3,6 +3,7 @@ import Modal from './Modal'
 import {Book} from '../types'
 import Cover from './Cover'
 import styled from 'styled-components'
+import {uniq} from 'lodash'
 
 export default function BookModal({book, onClose}: {book: Book; onClose: any}) {
   return (
@@ -16,7 +17,7 @@ export default function BookModal({book, onClose}: {book: Book; onClose: any}) {
           <Author>{book.author}</Author>
           <Rating>★ {book.rating}</Rating>
           <Description>{book.description}</Description>
-          <Genres>{book.genres.join(' · ')}</Genres>
+          <Genres>{uniq(book.genres).join(' · ')}</Genres>
           <Spacer />
           <Links>
             <Link href={getAmazonLink(book)} target="_blank" rel="noreferrer">
