@@ -53,7 +53,7 @@ async function getBookDetails(url: string): Promise<BookDetails> {
       document.querySelectorAll('.bigBoxContent .elementList .left a')
     )
 
-    return genreElements.map((it) => it.textContent.trim())
+    return _.uniq(genreElements.map((it) => it.textContent.trim()))
   }
 
   function getDescription() {
