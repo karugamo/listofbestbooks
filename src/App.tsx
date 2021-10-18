@@ -19,7 +19,7 @@ export default function App() {
 
   return (
     <Main>
-      <Headline>📚 browse good books 📚</Headline>
+      <Headline>📚 list of best books 📚</Headline>
       <OptionsBar>
         <DesktopOnly>
           <FilterTags onToggle={onToggleFilter} activeFilters={activeFilters} />
