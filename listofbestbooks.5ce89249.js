@@ -107,4 +107,4 @@ var e;!function(){"use strict";var n=!("undefined"==typeof window||!window.docum
 },{"react":"HdMw","lodash":"HJaA","styled-components":"OuUI","../books.json":"smLa","./BookThumbnail":"dNS8","@karugamo/components":"WwPL","./FilterTags":"wvJl","./BookModal":"s0Rs","./Modal":"m0o8"}],"zo2T":[function(require,module,exports) {
 "use strict";var e=this&&this.__importDefault||function(e){return e&&e.__esModule?e:{default:e}};Object.defineProperty(exports,"__esModule",{value:!0});var t=e(require("react")),r=e(require("react-dom")),u=e(require("./src/App"));r.default.render(t.default.createElement(u.default,null),document.getElementById("root"));
 },{"react":"HdMw","react-dom":"X9zx","./src/App":"Ru8j"}]},{},["zo2T"], null)
-//# sourceMappingURL=/browse-books.5ce89249.js.map
+//# sourceMappingURL=/listofbestbooks.5ce89249.js.map
