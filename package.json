@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --public-url '/browse-books'",
+    "build": "parcel build index.html",
     "update": "ts-node ./scripts/goodreads.ts"
   },
   "repository": {
