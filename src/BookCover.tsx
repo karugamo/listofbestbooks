@@ -58,16 +58,7 @@ export const getCssForSettings = (uniqueId: string, settings: Settings) => {
       justify-content: center;
       perspective: ${settings.perspective}px;
     }
-    
-    @keyframes initAnimation-${uniqueId} {
-      0% {
-        transform: rotateY(${-settings.rotateHover}deg);
-      }
-      100% {
-        transform: rotateY(${-settings.rotate}deg);
-      }
-    }
-    
+  
     .book-container-${uniqueId} .book {
       width: ${settings.width}px;
       height: ${settings.height}px;
@@ -75,7 +66,6 @@ export const getCssForSettings = (uniqueId: string, settings: Settings) => {
       transform-style: preserve-3d;
       transform: rotateY(${-settings.rotate}deg);
       transition: transform ${settings.transitionDuration}s ease;
-      animation: 1s ease 0s 1 initAnimation-${uniqueId};
     }
     
     .book-container-${uniqueId} .book:hover {
