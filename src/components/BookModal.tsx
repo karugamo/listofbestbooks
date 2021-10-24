@@ -1,6 +1,6 @@
 import React from 'react'
 import Modal from './Modal'
-import {Book} from '../types'
+import {Book} from '../../types'
 import Cover from './Cover'
 import styled from 'styled-components'
 import {uniq} from 'lodash'

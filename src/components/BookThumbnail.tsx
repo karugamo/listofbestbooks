@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Book } from '../types'
+import { Book } from '../../types'
 import BookCover from './BookCover'
 import Cover from './Cover'
 

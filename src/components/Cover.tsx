@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import React from 'react'
-import {Book} from '../types'
+import {Book} from '../../types'
 
 export default function Cover({book, ...props}: {book: Book}) {
   const {title, image} = book

@@ -1,8 +1,8 @@
 import React from 'react'
 import styled, {css} from 'styled-components'
-import {Book} from '../types'
+import {Book} from '../../types'
 import Tag from './Tag'
-import books from '../books.json'
+import books from '../../books.json'
 
 type Genre = string
 

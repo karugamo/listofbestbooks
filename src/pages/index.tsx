@@ -1,13 +1,13 @@
 import React, {useEffect, useState} from 'react'
 import {shuffle} from 'lodash'
 import styled from 'styled-components'
-import allBooks from '../books.json'
-import {Book} from '../types'
-import BookThumbnail from './BookThumbnail'
+import allBooks from '../../books.json'
+import {Book} from '../../types'
+import BookThumbnail from '../components/BookThumbnail'
 import {About} from '@karugamo/components'
-import FilterTags, {Filter} from './FilterTags'
-import BookModal from './BookModal'
-import Modal from './Modal'
+import FilterTags, {Filter} from '../components/FilterTags'
+import BookModal from '../components/BookModal'
+import Modal from '../components/Modal'
 
 export default function App() {
   const [books, setBooks] = useState<Book[]>(allBooks)
