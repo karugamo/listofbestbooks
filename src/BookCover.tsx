@@ -1,4 +1,4 @@
-import React, {useMemo} from 'react'
+import React, { useMemo } from "react";
 
 export default function BookCover({
   children,
@@ -7,11 +7,11 @@ export default function BookCover({
   perspective = 600,
   transitionDuration = 1,
   thickness = 50,
-  bgColor = '#01060f',
-  shadowColor = '#aaaaaa',
+  bgColor = "#01060f",
+  shadowColor = "#aaaaaa",
   width = 200,
   height = 300,
-  pagesOffset = 3
+  pagesOffset = 3,
 }: Props) {
   const uniqueId = useMemo(
     () =>
@@ -19,7 +19,7 @@ export default function BookCover({
         .toString(16)
         .substring(1),
     []
-  )
+  );
   const css = getCssForSettings(uniqueId, {
     rotate,
     rotateHover,
@@ -30,26 +30,21 @@ export default function BookCover({
     shadowColor,
     width,
     height,
-    pagesOffset
-  })
+    pagesOffset,
+  });
 
   return (
     <>
       <style>{css}</style>
       <div className={`book-container-${uniqueId}`}>
-        <div className="book">
-          {children}
-          <div className="back">
-            <div className="back-content">hallo</div>
-          </div>
-        </div>
+        <div className="book">{children}</div>
       </div>
     </>
-  )
+  );
 }
 
 export const getCssForSettings = (uniqueId: string, settings: Settings) => {
-  const borderRadius = `border-radius: 2px 6px 6px 2px;`
+  const borderRadius = `border-radius: 2px 6px 6px 2px;`;
 
   return `
     .book-container-${uniqueId} {
@@ -129,57 +124,52 @@ export const getCssForSettings = (uniqueId: string, settings: Settings) => {
       background-color: ${settings.bgColor};
       ${borderRadius}
     }
-
-    .back-content {
-      transform: scaleX(-1);
-      padding: 8px;
-    }
-  `
-}
+  `;
+};
 
 interface Settings {
   /**
    * Rotation of the book, in degrees.
    */
-  rotate: number
+  rotate: number;
   /**
    * Rotation of the book on hover, in degrees.
    */
-  rotateHover: number
+  rotateHover: number;
   /**
    * Perspective value. 600 seems to be a realistic value.
    */
-  perspective: number
+  perspective: number;
   /**
    * Duration of rotate animation, in milliseconds.
    */
-  transitionDuration: number
+  transitionDuration: number;
   /**
    * Book thickness, in pixels.
    */
-  thickness: number
+  thickness: number;
   /**
    * Color of the inside of back cover.
    */
-  bgColor: string
+  bgColor: string;
   /**
    * Color of box shadow.
    */
-  shadowColor: string
+  shadowColor: string;
   /**
    * Width of the book, in pixels.
    */
-  width: number
+  width: number;
   /**
    * Height of the book, in pixels.
    */
-  height: number
+  height: number;
   /**
    * Offset between the pages and the cover size, in pixels.
    */
-  pagesOffset: number
+  pagesOffset: number;
 }
 
 interface Props extends Partial<Settings> {
-  children: React.ReactNode
+  children: React.ReactNode;
 }
