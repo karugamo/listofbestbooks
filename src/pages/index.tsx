@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { shuffle } from "lodash";
 import styled from "styled-components";
-import allBooks from "../../books.json";
+import allBooks from "../../data/books.json";
 import { Book } from "../../types";
 import BookThumbnail from "../BookThumbnail";
 import { About } from "@karugamo/components";
@@ -11,13 +11,15 @@ import Modal from "../Modal";
 import "../styles/main.css";
 import { Helmet } from "react-helmet";
 
-export default function App() {
+export default function App({ pageContext: { book } }) {
   const [books, setBooks] = useState<Book[]>(allBooks);
   const [activeFilters, setActiveFilters] = useState<Filter[]>([]);
-  const [currentBook, setCurrentBook] = useState<Book | null>(null);
+  const [currentBook, setCurrentBook] = useState<Book | null>(book);
   const [filterModalOpen, setFilterModalOpen] = useState<boolean>(false);
 
   useFilterBooks();
+
+  useUrlUpdate();
 
   return (
     <Main>
@@ -76,6 +78,18 @@ export default function App() {
       )}
     </Main>
   );
+
+  function useUrlUpdate() {
+    useEffect(() => {
+      if (!currentBook) {
+        window.history.pushState({}, "list of best books", "/");
+        return;
+      }
+
+      const encodedName = encodeBook(currentBook);
+      window.history.pushState({}, currentBook.title, `/book/${encodedName}`);
+    }, [currentBook]);
+  }
 
   function useFilterBooks() {
     useEffect(() => {
@@ -178,3 +192,10 @@ const ActiveFiltersText = styled.span`
   color: #aaa;
   margin-left: 8px;
 `;
+
+function encodeBook(book) {
+  return book.title
+    .replace(/[^\w\s]/gi, "")
+    .trim()
+    .replace(/ /g, "_");
+}
