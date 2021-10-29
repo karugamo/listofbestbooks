@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-tsx",
+    "path": "/book/The_Stranger/",
+    "result": {"pageContext":{"book":{"image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590930002l/49552._SY75_.jpg","url":"/book/show/49552.The_Stranger","title":"The Stranger","color":"hsla(0, 0%, 100%, 1)","rating":3.99,"numRatings":802924,"published":1942,"genres":["Classics","Fiction","Philosophy","Cultural","France","Literature","Novels","European Literature","French Literature","Academic","School","Literature","20th Century","Literary Fiction"],"description":"Through the story of an ordinary man unwittingly drawn into a senseless murder on an Algerian beach, Camus explored what he termed \"the nakedness of man faced with the absurd.\" First published in English in 1946; now in a new translation by Matthew Ward.","author":"Albert Camus"}}},
+    "staticQueryHashes": []}

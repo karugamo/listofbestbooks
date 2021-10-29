@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-tsx",
+    "path": "/book/Life_of_Pi/",
+    "result": {"pageContext":{"book":{"image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631251689l/4214._SY75_.jpg","url":"/book/show/4214.Life_of_Pi","title":"Life of Pi","color":"hsla(200, 100%, 30%, 1)","rating":3.92,"numRatings":1436377,"published":2001,"isbn10":"0770430074","genres":["Fiction","Fantasy","Classics","Adventure","Contemporary","Novels","Magical Realism","Literature","Cultural","India","Philosophy"],"description":"Life of Pi is a fantasy adventure novel by Yann Martel published in 2001. The protagonist, Piscine Molitor \"Pi\" Patel, a Tamil boy from Pondicherry, explores issues of spirituality and practicality from an early age. He survives 227 days after a shipwreck while stranded on a boat in the Pacific Ocean with a Bengal tiger named Richard Parker.","author":"Yann Martel"}}},
+    "staticQueryHashes": []}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-tsx",
+    "path": "/book/Emma/",
+    "result": {"pageContext":{"book":{"image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373627931l/6969._SY75_.jpg","url":"/book/show/6969.Emma","title":"Emma","color":"hsla(0, 0%, 0%, 1)","rating":4.02,"numRatings":722236,"published":1815,"isbn10":"0141439580","genres":["Classics","Fiction","Romance","Historical","Historical Fiction","Literature","Historical","Audiobook","Literature","19th Century","Classics","Classic Literature","Novels"],"description":"An alternative cover of this ISBN can be found here.\n\nEmma Woodhouse is one of Austen's most captivating and vivid characters. Beautiful, spoilt, vain and irrepressibly witty, Emma organizes the lives of the inhabitants of her sleepy little village and plays matchmaker with devastating effect.","author":"Jane Austen"}}},
+    "staticQueryHashes": []}
