@@ -112,7 +112,7 @@ const Book = styled.div<{ settings: any }>`
     );
   }
 
-  & .back {
+  &:after {
     position: absolute;
     top: 0;
     left: 0;
