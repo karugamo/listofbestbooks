@@ -1,4 +1,7 @@
 import React, { useMemo } from "react";
+import styled from "styled-components";
+
+const borderRadius = `border-radius: 2px 6px 6px 2px;`;
 
 export default function BookCover({
   children,
@@ -20,7 +23,8 @@ export default function BookCover({
         .substring(1),
     []
   );
-  const css = getCssForSettings(uniqueId, {
+
+  const settings = {
     rotate,
     rotateHover,
     perspective,
@@ -31,101 +35,95 @@ export default function BookCover({
     width,
     height,
     pagesOffset,
-  });
+  };
 
   return (
-    <>
-      <style>{css}</style>
-      <div className={`book-container-${uniqueId}`}>
-        <div className="book">{children}</div>
-      </div>
-    </>
+    <BookContainer settings={settings}>
+      <Book settings={settings}>{children}</Book>
+    </BookContainer>
   );
 }
 
-export const getCssForSettings = (uniqueId: string, settings: Settings) => {
-  const borderRadius = `border-radius: 2px 6px 6px 2px;`;
+const BookContainer = styled.div<{ settings: any }>`
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  perspective: ${({ settings }) => settings.perspective}px;
+`;
 
-  return `
-    .book-container-${uniqueId} {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      perspective: ${settings.perspective}px;
-    }
-  
-    .book-container-${uniqueId} .book {
-      width: ${settings.width}px;
-      height: ${settings.height}px;
-      position: relative;
-      transform-style: preserve-3d;
-      transform: rotateY(${-settings.rotate}deg);
-      transition: transform ${settings.transitionDuration}s ease;
-    }
-    
-    .book-container-${uniqueId} .book:hover {
-      transform: rotateY(${-settings.rotateHover}deg);
-    }
-    
-    .book-container-${uniqueId} .book > :first-child {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: ${settings.width}px;
-      height: ${settings.height}px;
-      transform: translateZ(${settings.thickness / 2}px);
-      background-color: ${settings.bgColor};
-      ${borderRadius}
-    }
-    
-    .book-container-${uniqueId} .book::before {
-      position: absolute;
-      content: ' ';
-      left: 0;
-      top: ${settings.pagesOffset}px;
-      width: ${settings.thickness - 2}px;
-      height: ${settings.height - 2 * settings.pagesOffset}px;
-      transform: translateX(${
-        settings.width - settings.thickness / 2 - settings.pagesOffset
-      }px) rotateY(90deg);
-      background: linear-gradient(90deg, 
-        #fff 0%,
-        #f9f9f9 5%,
-        #fff 10%,
-        #f9f9f9 15%,
-        #fff 20%,
-        #f9f9f9 25%,
-        #fff 30%,
-        #f9f9f9 35%,
-        #fff 40%,
-        #f9f9f9 45%,
-        #fff 50%,
-        #f9f9f9 55%,
-        #fff 60%,
-        #f9f9f9 65%,
-        #fff 70%,
-        #f9f9f9 75%,
-        #fff 80%,
-        #f9f9f9 85%,
-        #fff 90%,
-        #f9f9f9 95%,
-        #fff 100%
-        );
-    }
-    
-    .book-container-${uniqueId} .back {
-      position: absolute;
-      top: 0;
-      left: 0;
-      content: ' ';
-      width: ${settings.width}px;
-      height: ${settings.height}px;
-      transform: translateZ(${-settings.thickness / 2}px);
-      background-color: ${settings.bgColor};
-      ${borderRadius}
-    }
-  `;
-};
+const Book = styled.div<{ settings: any }>`
+  width: ${({ settings }) => settings.width}px;
+  height: ${({ settings }) => settings.height}px;
+  position: relative;
+  transform-style: preserve-3d;
+  transform: rotateY(${({ settings }) => -settings.rotate}deg);
+  transition: transform ${({ settings }) => settings.transitionDuration}s ease;
+
+  &:hover {
+    transform: rotateY(${({ settings }) => -settings.rotateHover}deg);
+  }
+
+  & > :first-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: ${({ settings }) => settings.width}px;
+    height: ${({ settings }) => settings.height}px;
+    transform: translateZ(${({ settings }) => settings.thickness / 2}px);
+    background-color: ${({ settings }) => settings.bgColor};
+    ${borderRadius}
+  }
+
+  &:before {
+    position: absolute;
+    content: " ";
+    left: 0;
+    top: ${({ settings }) => settings.pagesOffset}px;
+    width: ${({ settings }) => settings.thickness - 2}px;
+    height: ${({ settings }) => settings.height - 2 * settings.pagesOffset}px;
+    transform: translateX(
+        ${({ settings }) =>
+          settings.width - settings.thickness / 2 - settings.pagesOffset}px
+      )
+      rotateY(90deg);
+    background: linear-gradient(
+      90deg,
+      #fff 0%,
+      #f9f9f9 5%,
+      #fff 10%,
+      #f9f9f9 15%,
+      #fff 20%,
+      #f9f9f9 25%,
+      #fff 30%,
+      #f9f9f9 35%,
+      #fff 40%,
+      #f9f9f9 45%,
+      #fff 50%,
+      #f9f9f9 55%,
+      #fff 60%,
+      #f9f9f9 65%,
+      #fff 70%,
+      #f9f9f9 75%,
+      #fff 80%,
+      #f9f9f9 85%,
+      #fff 90%,
+      #f9f9f9 95%,
+      #fff 100%
+    );
+  }
+
+  & .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: " ";
+    width: ${({ settings }) => settings.width}px;
+    height: ${({ settings }) => settings.height}px;
+    transform: translateZ(${({ settings }) => -settings.thickness / 2}px);
+    background-color: ${({ settings }) => settings.bgColor};
+    ${borderRadius}
+  }
+`;
 
 interface Settings {
   /**
