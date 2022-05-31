@@ -32,12 +32,18 @@ async function getBookDetails(url: string): Promise<BookDetails> {
       isbn10: getISBN(),
       genres: getGenres(),
       description: getDescription(),
-      author: getAuthor()
+      author: getAuthor(),
+      pages: getNumberOfPages(),
     }
   } catch (e) {
     console.log('Failed to get ', url)
     console.error(e)
     return {}
+  }
+
+  function getNumberOfPages() {
+    const pages = document.querySelector('[itemprop="numberOfPages"]').textContent.trim()
+    return parseInt(pages)
   }
 
   function getISBN(): string {

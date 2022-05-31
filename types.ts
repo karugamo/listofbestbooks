@@ -13,4 +13,5 @@ export type BookDetails = {
   genres?: string[]
   description?: string
   author?: string
+  pages?: number 
 }
