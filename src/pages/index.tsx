@@ -1,15 +1,15 @@
-import React, { useEffect, useState } from "react";
+import { About } from "@karugamo/components";
 import { shuffle } from "lodash";
+import React, { useEffect, useState } from "react";
+import { Helmet } from "react-helmet";
 import styled from "styled-components";
 import allBooks from "../../data/books.json";
 import { Book } from "../../types";
-import BookThumbnail from "../BookThumbnail";
-import { About } from "@karugamo/components";
-import FilterTags, { Filter } from "../FilterTags";
 import BookModal from "../BookModal";
+import BookThumbnail from "../BookThumbnail";
+import FilterTags, { Filter } from "../FilterTags";
 import Modal from "../Modal";
 import "../styles/main.css";
-import { Helmet } from "react-helmet";
 
 export default function App({ pageContext: { book } }) {
   const [books, setBooks] = useState<Book[]>(allBooks);
@@ -43,7 +43,7 @@ export default function App({ pageContext: { book } }) {
           async
         ></script>
       </Helmet>
-      <Headline>📚 list of best books 📚</Headline>
+      <Headline>list of best books</Headline>
       <OptionsBar>
         <DesktopOnly>
           <FilterTags onToggle={onToggleFilter} activeFilters={activeFilters} />
@@ -172,6 +172,12 @@ const OptionsBar = styled.section`
 
 const Headline = styled.h2`
   text-align: center;
+  font-family: monospace;
+  border: 2px solid white;
+  padding: 16px 32px;
+  transform: rotate(-2deg);
+  margin-bottom: 48px;
+  border-radius: 2px;
 `;
 
 const MobileFilterButton = styled(Button)`
