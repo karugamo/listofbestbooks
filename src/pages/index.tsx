@@ -64,6 +64,9 @@ export default function App({ pageContext: { book } }) {
         ))}
       </BooksContainer>
       <About />
+      <Link href="https://overwhelmingly-positive.com/">
+        Overwhelmingly Positive Games on Steam
+      </Link>
       {currentBook && (
         <BookModal book={currentBook} onClose={() => setCurrentBook(null)} />
       )}
@@ -119,6 +122,11 @@ export default function App({ pageContext: { book } }) {
   }
 }
 
+const Link = styled.a`
+  color: #fff;
+  margin-bottom: 64px;
+`;
+
 const Main = styled.div`
   display: flex;
   align-items: center;
@@ -145,7 +153,6 @@ const Button = styled.button`
   margin-bottom: 20px;
   cursor: pointer;
   border-radius: 7px;
-
 `;
 
 const OptionsBar = styled.section`
