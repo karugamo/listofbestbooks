@@ -1,8 +1,8 @@
 import React from "react";
 import styled, { css } from "styled-components";
+import books from "../data/books.json";
 import { Book } from "../types";
 import Tag from "./Tag";
-import books from "../data/books.json";
 
 type Genre = string;
 
@@ -63,6 +63,14 @@ export default function FilterTags({
 
   return (
     <Container>
+      <FilterTag
+        key="shortbooks"
+        {...filterTagProps}
+        filter={{
+          name: "Short Books",
+          function: (book: Book) => book.pages < 250,
+        }}
+      />
       {genres.map((genre) => (
         <FilterTag
           key={genre}

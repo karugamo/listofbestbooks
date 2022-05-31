@@ -18,7 +18,7 @@ async function main() {
     booksWithDetails.push({...book, ...details})
   }
 
-  writeFileSync('books.json', JSON.stringify(booksWithDetails, null, 2))
+  writeFileSync('./data/books.json', JSON.stringify(booksWithDetails, null, 2))
 }
 
 main()

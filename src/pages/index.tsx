@@ -145,14 +145,7 @@ const Button = styled.button`
   margin-bottom: 20px;
   cursor: pointer;
   border-radius: 7px;
-  box-shadow: 0px 2px white;
 
-  transition: background-color 0.2s, color 0.2s;
-
-  :active {
-    transform: translate(0, 2px);
-    box-shadow: 0px 0px white;
-  }
 `;
 
 const OptionsBar = styled.section`
